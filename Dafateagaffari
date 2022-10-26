@@ -1,0 +1,1003 @@
+ID	Product▲	Comp	Assignee▲	Status▲	Resolution	Summary	Changed
+18630	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	WebKit r31381 History Data Overwrites ~/Library/Keychains/login.keychain	2022-03-12
+27332	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	Dragging any content crashes in WebDragClient::willPerformDragSourceAction	2020-06-25
+35366	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	scrollbars reset to top when switching between panels	2021-01-29
+36536	WebKit	Images	webkit-unassigned@lists.web...	UNCO	---	multipart/x-mixed-replace does not show final frame in MJPEG over HTTP	2022-08-16
+42750	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Live OGG streaming using HTML5 audio or video tag does not work	2020-06-25
+43971	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Scrolling a webpage with mouse wheel stops to work when the pointer is over an embedded flash movie.	2020-03-12
+45593	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	REGRESSION (r67001): Scrolling semi-broken when initiated by pressing END with smooth scrolling enabled	2010-09-14
+51780	WebKit	Media	webkit-unassigned@lists.web...	UNCO	---	video tag: crashes on random seek and reload of video	2011-01-12
+54903	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Crash when switching accounts in multi account setup	2011-02-21
+90160	WebKit	XML	webkit-unassigned@lists.web...	UNCO	---	REGRESSION: XMLHttpRequest results inconsistent when used with modal dialogs	2012-06-28
+106750	WebKit	JavaScri	barraclough@apple.com	UNCO	---	String(new Date(2010,10,1)) is wrong in KRAT, YAKT	2013-05-28
+37984	WebKit	WebKitGT	crzwdjk@gmail.com	UNCO	---	[Freetype] Support for "locl" tables	2021-10-27
+88936	WebKit	Web Temp	litherum@gmail.com	UNCO	---	StringImpl::characters can return NULL for an empty string	2012-08-26
+102775	WebKit	Page Loa	vsevik@chromium.org	UNCO	---	Loader: Store WeakRef CachedResourceHandle in CachedResourceLoader	2013-03-05
+13810	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	HTML FORM TARGET not targeting named window/frame	2009-11-12
+14169	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	AJAX/JavaScript crash bug	2008-07-16
+14869	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	go-forward and go-back function	2009-05-25
+15666	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	display:inline on the tbody is causing the width of the iframe to be shrunk to the minimum size of its text.	2014-02-25
+15932	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	point-and-click fails to select from the drop-down menus that are presented to Google Code project members whilst editing Google Code issues	2008-07-01
+16225	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	The highlight box for focused inline find result hides the matching text	2007-12-02
+18674	WebKit	History	webkit-unassigned@lists.web...	UNCO	---	Back to google.com right after log in gave the wrong page	2021-03-31
+19059	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	REGRESSION: Gmail Keyboard shortcuts stop working	2017-07-18
+19297	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	edit event details does not render	2008-05-28
+19334	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Inverted arrow keys in RTL input box on Windows	2009-04-15
+19530	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	Safari/WebKit requests the same URL multiple times when Firefox/IE only requests it once	2009-05-12
+19681	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	borderColor on table elements should be ignored	2022-09-03
+19704	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	when a Google search link is clicked it does not open.	2008-06-20
+19781	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Dropdown doesnot work in Safari	2017-04-23
+19837	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	Gmail 2 disables drag and drop icon	2008-06-30
+20425	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	window.location.replace seems to add history entries in this test case	2017-07-18
+20481	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	[Curl] Cannot log on google with proxy	2008-08-22
+20615	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Texts overlapped when the page is zoomed in	2012-01-01
+20726	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	File upload failing to set Content-Type: application/octet-stream	2009-08-23
+20859	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Renders malformed fieldset/div HTML differently than FF/IE	2008-09-15
+21053	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	Safari or Chrome doesn't keep passwords for Typo3 CMS	2008-09-24
+21092	WebKit	Tables	webkit-unassigned@lists.web...	UNCO	---	Tables with display:inline don't render as expected in strict mode	2022-09-20
+21206	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	Text encoding can't be changed manually	2008-09-29
+21395	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Unexpected Quitting... hope I did this right. <:0)	2013-09-30
+21454	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Scroll bar and cursor out of position while scrolling	2008-10-07
+21638	WebKit	Frames	webkit-unassigned@lists.web...	UNCO	---	WebCore/page/FrameTree.cpp:find() dispatches form submissions to incorrect frame	2011-02-21
+21731	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	WebKit sometimes fails to respect a redirect, without explanation, most noticeable with Diigo Annotated Links	2008-11-15
+21747	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	(Needs test) Changing the document.body to overflow hidden and back to	2011-01-20
+22013	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Google suggest - Korean: cannot use arrow down to select suggested words	2008-10-31
+22231	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	back button to be clicked twice to go back to page in orkut	2008-11-13
+22395	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	igoogle drag and drop does not save	2008-11-20
+22558	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Incorrect scroll position and scrollbar behavior after clicking an anchor link	2009-12-30
+22599	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Setting window.location.hash to "#id_some_div" does not set focus to that div.	2015-08-18
+22690	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	Text area resize corner has no "grabber" image on it	2017-03-11
+22744	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	repaint issue on scrolling due to style definition in html page	2008-12-08
+22745	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	background missing in left menu due to syntax error in css	2022-07-22
+22762	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Google Finance graphs causing WebKit lock-ups	2009-01-15
+22781	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	AJAX/Javascript code doesn't cycle through images	2008-12-10
+22782	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	extra space between the main menu and content	2011-06-02
+22783	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	cannot grab resize handle for table in Google Sites	2008-12-10
+22819	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	LEAK: Removing image from deviantWatch list causes memory leaks.	2008-12-11
+22921	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	NetShare Websites Don't Render Properly	2008-12-18
+22942	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Gmail link opening claims popup block interference, then does it anyway.	2008-12-19
+23048	WebKit	Tables	webkit-unassigned@lists.web...	UNCO	---	Table row height becomes mangled by simple Javascript operations	2013-03-25
+23101	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Multiple tabs to same website blocks both tabs when 1 tab is waiting for response	2009-02-02
+23230	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	WebKit Browser Stops Responding Temporarily	2009-10-06
+23720	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	dropdown doesn't load automatically on selecting previous option	2009-07-03
+23722	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Anchor element with href="javascript:XXX" only has "Copy LInk" in context menu	2009-04-01
+23745	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Shift-Tab does not put cursor to previous position in a textarea	2010-02-20
+23748	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Incorrect rendering of FF12Maps.com	2009-07-09
+23749	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	objects do not link to other pages	2009-07-25
+23760	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	CSS2 System Colors are not correct in WebKit	2022-02-15
+23820	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	Keyboard shortcut to switch between windows does not work correctly	2022-05-29
+24014	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Diacritics characters are displayed bigger than normal characters	2009-06-11
+24077	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Use of cryptographic tokens with WebKit	2019-05-24
+24100	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	"Clear formatting" broken in GNotes on WebKit	2009-02-23
+24105	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	login fields not getting displayed in webkit	2014-02-08
+24365	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	I get an error when logging into Squirrel Mail using HTTPS	2019-05-02
+24411	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	[GTK] Text manipulation undo not working	2017-03-11
+24694	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	Paste fails to work on blogspot richtext field	2009-03-18
+24968	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Flash content only visible when highlighted	2009-03-31
+25013	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Ebay.com: Clicking on 'Choose more ...' second time hangs the renderer	2009-04-02
+25014	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	ebay.de: Auto popup menus doesn't render at correct place on mouse hover	2022-07-22
+25098	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Pizza wheel forever (process sample #1)	2009-04-08
+25216	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Absolute positon div over iframe does not repaint correctly	2014-07-30
+25280	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	frame at the bottom of page is not loading	2009-04-17
+25359	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Google Analytics not being tracked in Safari 4	2009-04-25
+25468	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	XSLT mandelbrot slow and incorrect rendering	2010-01-22
+25499	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	moneycentral.msn.com : right column has shifted below the center column	2009-04-30
+25547	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Missing part of a letter after selecting cursive text with italic style	2011-09-17
+25637	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Cannot sign up for hotpop email because of missing fields in page	2009-05-07
+25672	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Online Form Filling- Data entry error	2009-05-10
+25740	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Unable to resize left window/frame due to attribute resize="yes"	2011-06-25
+25743	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Selected text in a searchfield only deletes 1 letter at a time on mybrute.com	2011-09-10
+25938	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	linkedin.com: textarea starts expanding as soon as you type	2009-06-12
+26092	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Back history broken with Yahoo photo gallery	2009-05-29
+26548	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	Menu key gives inconsistent user experience	2009-06-19
+26564	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	verizon.net : Overlapping form fields	2009-06-19
+26639	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Inconsistent input focus on opening a new tab	2009-06-22
+26805	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	ext-align:center defined for the body is causing the misalignment	2009-06-29
+27050	WebKit	Images	webkit-unassigned@lists.web...	UNCO	---	Feature request:drag big images like image viewer programs does.	2009-07-07
+27111	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Webkit is unforgiving of missing Content-Type text/css for CSS pages	2009-07-09
+27125	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	GWT + developer console + refresh = consistent crash	2009-07-09
+27629	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Long Running requests block other resource requests	2009-07-24
+27649	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	400 Bad request	2009-07-24
+27730	WebKit	Images	webkit-unassigned@lists.web...	UNCO	---	Gravatar images are said to be sent as text/html, 0B in size	2009-07-27
+28381	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	Can't setDragImage when dragging an image element	2013-07-24
+28640	WebKit	Tables	webkit-unassigned@lists.web...	UNCO	---	Formatting is off because of rowspan	2022-08-31
+28643	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	All links in category get underlined on mouseover	2013-05-08
+28647	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Weird layout bug when READING clientHeight	2009-09-16
+28878	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	XMLHttpRequest possible onreadystatechange duplicate calls	2009-09-19
+29050	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	PageUp in at top of multi-line text box scrolls page	2017-07-18
+29105	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Compilation of possible future acid4 tests	2009-09-11
+29282	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	option value on iframe post incorrectly because a second javascript sentence parent.location.href=xxx is executed when it is in iframe	2009-09-15
+29288	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Content of the Webpage is aligned to the bottom of the webpage	2012-01-26
+29870	WebKit	SVG	webkit-unassigned@lists.web...	UNCO	---	Actual points string is lost, Webkit normalizes it	2022-08-18
+30074	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Assertion failed, causes Safari crash from function crossing_count	2009-10-20
+30257	WebKit	Web Insp	webkit-unassigned@lists.web...	UNCO	---	Web Inspector: show DOM timers that are pending at a given point on the timeline	2016-12-13
+30510	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Serializing a jQuery Object with jsDump can often kill the computer	2009-10-21
+30959	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Repeating page refresh iGoogle page	2009-10-31
+31385	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	Problems with drop downs	2009-11-11
+32423	WebKit	History	webkit-unassigned@lists.web...	UNCO	---	Incorrect cache behavior with dynamic scripts after page-refresh	2021-03-31
+32514	WebKit	History	webkit-unassigned@lists.web...	UNCO	---	Visited link not colored as visited on my.yahoo.com	2021-03-31
+32981	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	with (large) padding, text string in text input field is not pushed down accordingly.	2016-11-07
+33085	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Google Visualization Error: Problem parsing d=""	2009-12-31
+33717	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	segfault in WebCore::AccessibilityTable::isTableExposableThroughAccessibility	2017-03-11
+33772	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	High CPU loading multiple tabbed pages...	2010-01-17
+33833	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	Input field focused but inaccessible	2010-01-19
+33912	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	Text selection focus behavior differs between Win32 and MacOS	2010-01-20
+34941	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Page layout not loading correctly	2010-02-15
+35456	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	rgba borders in adjacent table cells have wrong alpha values	2022-07-12
+35938	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	colorbox/lightbox JS TypeError	2017-03-11
+36361	WebKit	PDF	webkit-unassigned@lists.web...	UNCO	---	Changing data of <OBJECT> element (PDF) does not refresh content	2011-07-28
+36596	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	ZWJ does not join glyphs properly	2014-03-11
+38222	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	"word-wrap: break-word" should not override "white-space: pre"	2014-06-24
+38358	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Width of table caption incorrect if table has a border	2011-10-31
+38580	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Sometimes display block doesn't work	2015-09-04
+39451	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Client side JavaScript i18n API proposal	2010-05-20
+39735	WebKit	Printing	webkit-unassigned@lists.web...	UNCO	---	Implement CSS Paged Media Module Level3's Page Breaks (master bug)	2020-04-22
+40314	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Geolocation fails on second and subsequent loads of some pages (sometimes fails on first attempt)	2010-06-09
+40383	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Google apps email no longer rendering	2010-06-09
+40442	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	webkit hangs upon opening it or surfing other websites.	2010-06-10
+40761	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	International domain name (IDN) emails silently fail input type="email" validation	2012-10-03
+40835	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Adds support for throwing behavior of SerializedScriptValue to be specified in the IDL.	2013-10-02
+41624	WebKit	Tools /	webkit-unassigned@lists.web...	UNCO	---	commit queue generates wrong changelogs	2010-09-18
+41951	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Middle click doesn't open an image in new site in Slimbox	2012-09-21
+41997	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Null pointer crash in WTF::RefCountedBase::derefBase when navigating away from page with CSS	2010-07-12
+42140	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	[Win XP] [@font-face] Incorrect rendering of downloadable fonts (opentype) with text-rendering: optimizeLegibility;	2011-01-19
+43400	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	Add priority attribute to XMLHttpRequest	2014-05-14
+43774	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Content on Google forums is getting overlapped when width is extremely small	2010-08-11
+44228	WebKit	Frames	webkit-unassigned@lists.web...	UNCO	---	Page refresh reloads entire iframe and not just the current iframe contents	2011-02-07
+44356	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	canvas rendered when page is zoomed appears zoomed in or out too much	2010-08-20
+44517	WebKit	Media	webkit-unassigned@lists.web...	UNCO	---	HTMLMediaElement.canPlayType gives false positives in Safari	2010-08-24
+44668	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	[Gtk] Date.toLocaleTimeString() return a unexpected localize string	2017-03-11
+44825	WebKit	Frames	webkit-unassigned@lists.web...	UNCO	---	False warning: <noframes> is not allowed inside <frameset>	2010-08-28
+45827	WebKit	Printing	webkit-unassigned@lists.web...	UNCO	---	Fail to print article from Google reader	2010-09-23
+45972	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	The cursor in input textbox is invisible after switched the focus back to the browser window on Mac OS X	2010-09-18
+46265	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Webkit has been quitting unexpectedly	2010-09-22
+47582	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	thewhiskywire.com does not render properly in Google Chrome	2010-10-13
+47693	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	Configurable GeoLocation data provider	2011-03-31
+47828	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	style.border color comparison only returns true if the color is in rgb(r, g, b) format	2012-05-03
+47856	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	WebKit hangs when running in editing mode on windows (tested on 7 and XP) when using the keyboard to get over links	2017-03-11
+48508	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Add support for CSS number-format	2022-07-13
+49238	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	Link prefetch launches subresource requests too aggressively	2022-07-19
+49340	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	Text wrapping around floated divs/images occasionally ignored, then fixed on page reload	2010-11-10
+49583	WebKit	WebKit A	webkit-unassigned@lists.web...	UNCO	---	Crash in WebView.commitCopy() when selecting text on a pure image.	2010-11-16
+49669	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	Inconsistent history.replaceState and window.location.hash behaviour	2010-11-18
+50608	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	Implement @uris and @alternateURIs	2022-08-17
+51172	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Implement @-webkit-document CSS rule for use in user stylesheets	2022-07-12
+51652	WebKit	Canvas	webkit-unassigned@lists.web...	UNCO	---	Add canvas.toBlob	2017-02-16
+51677	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Crash below -[NSMenu _performKeyEquivalentWithDelegate:]	2011-01-02
+52120	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Fixed width, right-aligned html select gets clipped	2012-10-11
+52220	WebKit	History	webkit-unassigned@lists.web...	UNCO	---	pushState/replaceState does not update history	2021-03-31
+52287	WebKit	Tables	webkit-unassigned@lists.web...	UNCO	---	Webkit browsers render dotted borders as solid borders in some cases	2012-02-09
+53163	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Sketch of new <track> interfaces	2011-01-27
+53855	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	A WebKit's CSS floating bug	2022-07-23
+53864	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	-webkit-column-width causing layout / rendering issue	2011-03-13
+54684	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	font changes with drop down menu overlaying flash	2011-02-17
+55311	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Incorrect layout when an element has a border, line-height and column-count on the mac	2011-02-26
+55516	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Possible data race on JSC::Yarr::Interpreter::interpret	2011-03-02
+55942	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	blur fired on disabled inputs	2011-06-06
+56908	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Display JSON files as pretty printed	2015-08-04
+57123	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Background Color Flashes as Small Box in Upper Left When Content is Scrollable	2011-03-26
+57344	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Font size 0 still visible	2012-01-04
+57817	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Could not enter weird characters in password input boxes (on MacOS with spanish keyboard)	2011-04-06
+58391	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	Embedded font resources never get released when page is closed	2017-03-11
+58832	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Use the proper navigation policy	2011-04-19
+59286	WebKit	Tables	webkit-unassigned@lists.web...	UNCO	---	Can't select just rectangle of table	2011-04-25
+59690	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	Div is moving on drag	2012-10-25
+61167	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	Middle clicking a named target sets a focus to a previously opened page	2011-12-21
+61525	WebKit	Web Audi	webkit-unassigned@lists.web...	UNCO	---	Web Audio API Undocumented Functionality	2021-11-07
+61716	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	Google Analytics event tracking throwing "undefined" errors	2011-05-29
+61864	WebKit	Frames	webkit-unassigned@lists.web...	UNCO	---	Targeted links don't works as expected when there are multiple frames with the same name	2011-06-20
+62490	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	accepting cookies	2011-06-10
+62502	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Allow setting content-disposition for blob-data	2011-06-12
+62696	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	webkit crashes on launch iGoogle page	2011-06-15
+62857	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Chrome not display box-shadow	2022-09-24
+63267	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	WebSockets constructor erroneously unescapes forward slashes in URLs	2016-09-08
+63492	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Incorrect weight and style matching for @font-face families	2017-06-05
+63938	WebKit	Images	webkit-unassigned@lists.web...	UNCO	---	Image creation via data: uri causes unbounded memory growth and crashing	2012-05-11
+64111	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Loading icon shows for long initial connections	2019-05-02
+64977	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Webkit build r91478 crashes while attempting to access a site that requires a KCA	2011-07-22
+65161	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	Midori Segmentation Fault caused by Javascript Core (WebKit GTK+)	2017-03-11
+65393	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	screen.width/height does not working on the second screen	2012-04-17
+65412	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	beforeload event doesn't block the resource correctly: it reloads over and over	2013-04-15
+65440	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Store media types in filesystem	2011-08-01
+66451	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Assigning a value to an existing non-enumerable property of a built-in before accessing it change its [[Enumerable]] attribute to true	2019-06-09
+66463	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	Crash in WebKit!WebKit::WebDragClient::startDrag+0x118	2011-08-18
+66547	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	dragenter & dragleave events do not include relatedTarget in the event object	2022-07-12
+67022	WebKit	Web Temp	webkit-unassigned@lists.web...	UNCO	---	Investigate how to pass 8-bit characters to ICU	2011-08-26
+67071	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Feature Request: Private Browsing initiated by server header.	2011-08-26
+67199	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	In specific cases, document.elementFromPoint returns wrong element	2018-05-28
+67845	WebKit	Media	webkit-unassigned@lists.web...	UNCO	---	HTML5-video on Safari: type="video/m4v" not specified	2011-09-24
+67910	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	Selecting text in text fields with <Shift>+<ISO_Level5_Shift>+<Arrow_key> doesn’t work. Only <Shift+Left> does.	2011-09-12
+68308	WebKit	Media	webkit-unassigned@lists.web...	UNCO	---	<video> element not firing onerror events	2020-05-04
+68440	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Peak execution time of the JavaScriptCore garbage collector causes pauses that prevent applications running at a constant frame rate.	2011-12-05
+68749	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	new Date().toString() returns curious timezone information in Windows + Japanese Language	2011-09-25
+69214	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Font rendering issue when using opacity in CSS with Google Web Fonts	2018-06-27
+69318	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Google Chrome does not display the latest contents on web page while IE does it.	2022-07-24
+70433	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Assert failure in JSC::WriteBarrierBase<JSC::Structure>::operator->()	2012-10-04
+70719	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Assert failure in WebCore::RenderLayer::updateLayerPositionsAfterScroll(bool)	2012-12-10
+71317	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Horizontal scrolling sometimes scrolls half an image	2011-11-01
+71674	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Assert failure in WebCore::EventListenerMap::find(WTF::AtomicString const&)	2011-11-07
+72278	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	Page up/down (extended keyboards) do not work at all	2011-11-18
+73101	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Google Adsense Ads are not showing up on Safari of Google Chrome	2011-11-25
+73316	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Losing text sharpness (blur) when scaling div over a fixed position element (on mobile safari / webkit browser)	2015-02-20
+73387	WebKit	Tools /	webkit-unassigned@lists.web...	UNCO	---	Find-in-Page Does Not Return All Matches	2012-01-11
+74544	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Google Translate changes scroll position when pound sign present in URL	2011-12-14
+75210	WebKit	WebKit M	webkit-unassigned@lists.web...	UNCO	---	URL hover does not decode %27 (')	2012-03-06
+75528	WebKit	Web Audi	webkit-unassigned@lists.web...	UNCO	---	Optimize the multiply-add in Biquad.cpp::process	2013-07-09
+75694	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	Crash in toBoolean in 1.7.2 and 1.7.3 on docs.google.com and many other pages	2017-03-11
+76429	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	adapt WebView for flicker-free page turns on e-ink devices	2012-01-17
+76717	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	WebScrollbar implementation doesn't validate SetValue calls against document size	2012-01-24
+76857	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	Minimum Window/Viewport Size is 392px Wide	2012-01-23
+78010	WebKit	Printing	webkit-unassigned@lists.web...	UNCO	---	printing produces a blank page in safari. In the internal app it produces a print preview failed. we checked with our internal apps and they dont see an issue. They recommended webkit for help.	2012-02-13
+78944	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	height + max-height values break proportional image scaling	2012-08-13
+80583	WebKit	Media	webkit-unassigned@lists.web...	UNCO	---	[Meta] Audio/Video Elements bugs found by the IE test center	2014-05-12
+80751	WebKit	WebKit A	webkit-unassigned@lists.web...	UNCO	---	Windows IDL files should use generic pointers for Windows Handles	2013-10-30
+81094	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Hitting the backbutton to a page that had pushStates loads the data from the lastest XHR	2012-09-14
+81216	WebKit	Tables	webkit-unassigned@lists.web...	UNCO	---	Table column position is distorted with table-layout fixed when tr is hidden and then shown again	2012-03-15
+81270	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	FileApi does not handle files with NFD encoded umlaut in file name	2012-03-27
+81972	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Consider making the global scope pollution by names/ids quirks-only	2017-07-18
+85076	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	ARM JIT causes segmentation fault on javascript-heavy pages	2019-10-31
+86183	WebKit	WebKit B	webkit-unassigned@lists.web...	UNCO	---	';' character is not handled correctly in Content-Disposition headers.	2012-05-14
+87192	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Web Inspector: Expose function scope / closure data	2019-06-09
+88224	WebKit	SVG	webkit-unassigned@lists.web...	UNCO	---	Freeze behaviour, not correct, depends on begin time ( Looks like Floating Point Problem )	2012-06-04
+88276	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Width does not stop increasing once max-height is reached	2012-06-04
+88365	WebKit	Printing	webkit-unassigned@lists.web...	UNCO	---	WebKit doesn't print documents with height 0.	2016-04-11
+90382	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	Assertion failed: !needsLayout() when loading http://cesium.agi.com/CesiumViewer/index.html	2017-03-11
+90502	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	A variable created in the global scope does not cause a similarly-named property of the global object to be forced to "undefined"	2012-07-04
+90679	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	<details> doesn't fire selectstart	2019-02-06
+91354	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Machine stack marker should not gather values already piled up on the stack before JSC working	2012-11-28
+91869	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Element positioning incorrect in specific circumstances	2012-07-20
+92194	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	ASSERTION FAILED: frame : void WebKit::WebPageProxy::decidePolicyForNavigationAction(uint64_t, uint32_t, uint32_t, int32_t, const WebCore::ResourceRequest &, uint64_t, CoreIPC::ArgumentDecoder *, bool &, uint64_t &, uint64_t &)	2012-10-10
+92365	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	Refactor cross thread communication	2012-08-16
+92589	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	Send NoPart as pressed to scrollbar when mouse is out of it.	2014-02-05
+93089	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	window.parent.postMessage not working	2022-04-25
+93518	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	Submitting a form, then clicking back changes hidden input values.	2013-09-24
+93680	WebKit	History	webkit-unassigned@lists.web...	UNCO	---	Back/Forward list with error page	2022-03-14
+94342	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Gmail chat pop-out window behavior broken	2012-08-17
+95608	WebKit	XML	webkit-unassigned@lists.web...	UNCO	---	xslt fn:document uri fails load external files if relative URI contains characters "[ ] ' "	2020-08-09
+96447	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	screen.availTop and screen.availLeft values are incorrect on systems with multiple displays	2022-08-09
+97305	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	One image in this testcase doesn't load until a browser refresh	2012-09-24
+97511	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Rendering corruption on sites that use JavaScript	2012-09-26
+97556	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Mobile Safari for iOS and Google Chrome for iOS ignore viewport settings on .mobi domains	2013-08-29
+97590	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Auto-scroll broken when selecting text	2012-09-25
+98108	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Correct detection of context type in WorldContextHandle	2012-10-03
+98592	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Crash in WTF::MetaAllocatorHandle::~MetaAllocatorHandle()	2012-10-08
+98593	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Crash in WTF::Float32Array::set(unsigned int, double)	2012-10-08
+98982	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	Setting className attribute causes slow performance	2022-07-30
+99912	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	proxy settings don't work	2017-03-11
+100878	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	[Gtk] luakit maps.google.ca causes segfault	2017-03-11
+101187	WebKit	Web Audi	webkit-unassigned@lists.web...	UNCO	---	Reduce the memory usage of ConvolverNode	2014-02-05
+101264	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	document.open should set the outgoing Referer	2013-04-04
+102063	WebKit	Platform	webkit-unassigned@lists.web...	UNCO	---	Porting WebKit to a new graphics library backend	2012-11-17
+103070	WebKit	HTML Edi	webkit-unassigned@lists.web...	UNCO	---	RTL/LTR Override Characters can cause loops in keyboard caret movement	2012-12-07
+103072	WebKit	HTML Edi	webkit-unassigned@lists.web...	UNCO	---	RTL/LTR Override Character can break caret movement/placement	2012-12-19
+105411	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Box non aligned when using column-count or -webkit-columns-count	2022-07-11
+106357	WebKit	Accessib	webkit-unassigned@lists.web...	UNCO	---	Selecting a link after performing a search causes Webkit to crash and terminate.	2014-02-07
+106876	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	HTML5 Body OnLoad event is not firing for application	2019-02-06
+107409	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	Add isInertial flag to mousewheel events	2013-01-21
+107545	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Cursor displays sometimes bold when enter text in search bar of google.	2013-01-22
+109504	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	Autoscrolling FPS should be close to monitor refresh rate (~60 FPS, not 20 FPS)	2013-03-02
+110023	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	non conforming behaviour of whitespace: pre-wrap and pre in textareas	2017-07-18
+111773	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Inline-block elements seem to push each other down.	2013-03-07
+112098	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Empty span inserted just after a text-wrap point has an offsetTop and offsetHeight of 0	2022-09-12
+112121	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Keep a weak reference of decoded image in lazyDecodingPixelRef	2014-02-05
+112366	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Chrome Windows: some characters from MathJax fonts are not accessible	2013-05-16
+113556	WebKit	WebKit2	webkit-unassigned@lists.web...	UNCO	---	Memory Leak after uploading image to Google Image Search by drag & drop	2013-05-01
+113943	WebKit	HTML Edi	webkit-unassigned@lists.web...	UNCO	---	Return keystrokes in phpBB causing a crash in CompositeEditCommand::insertNodeAt	2013-04-08
+114115	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Google Play Music controls have a visual glitch (horizontal lines don't render)	2013-04-07
+114842	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	[WK2] The nonCompositedContentLayer does not show debug borders even if WEBKIT_SHOW_COMPOSITING_DEBUG_VISUALS is set to 1.	2016-03-14
+114923	WebKit	Web Audi	webkit-unassigned@lists.web...	UNCO	---	AudioContext's currentTime doesn't start until the first source has been played back on it	2013-04-23
+115324	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	Unable to paste passwords etc from KeePass to WebKitGTK	2017-03-11
+115623	WebKit	Images	webkit-unassigned@lists.web...	UNCO	---	Crash in Image Decoder due to large gifs	2016-05-16
+116393	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	[GTK] Undefined or Invalid parameter in GMail Hangouts	2017-03-11
+116713	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	[META][GTK] Implement Deferred Rendering	2017-03-11
+117128	WebKit	Forms	webkit-unassigned@lists.web...	UNCO	---	background-repeat: no-repeat causes buttons to lose native styling	2013-06-02
+117605	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	[ARM] Assertion failure on maps.google.com	2013-06-14
+118743	WebKit	UI Event	webkit-unassigned@lists.web...	UNCO	---	no click triggered on element if inner text node is positioned on mouse down	2013-09-24
+119117	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	Fix the wrong refining ArrayMode	2013-07-29
+119219	WebKit	DOM	webkit-unassigned@lists.web...	UNCO	---	script tag in document.write into an iframe triggers twice	2013-07-29
+119481	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Https (lock) element missing in address bar for viewing security certificates	2013-08-04
+119556	WebKit	WebKit2	webkit-unassigned@lists.web...	UNCO	---	iOS: Jumping on :active press (when zoomed) with: touchstart + webkit-backface-visibility: hidden + text-shadow	2013-08-07
+119565	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	problems encountered with fast-malloc on illumos x86_64	2017-03-11
+119970	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	In Google Chrome, there should be a 1px gap between the right side of the background image and the right border of the container div.	2013-12-03
+121044	WebKit	Frames	webkit-unassigned@lists.web...	UNCO	---	Natively-drawn elements don't look right in scaled IFRAME	2013-09-24
+121618	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Spatial Navigation : User should be able to save focusable images on device using Spatial Navigation.	2013-09-19
+121626	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Spatial Navigation : User should be able to navigate html elements having element.style.cursor="pointer"	2013-10-20
+122908	WebKit	JavaScri	webkit-unassigned@lists.web...	UNCO	---	iPad Google News crashes in CLoop builds	2013-10-17
+123526	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	Font baseline misalignments within table cell with vertical-align="top" attribute	2015-11-25
+82287	WebKit	Layout a	japhet@chromium.org	UNCO	---	MemoryCache should adopt our standard RefCounted model for object lifetime	2013-06-11
+22040	WebKit	HTML Edi	webkit-unassigned@lists.web...	UNCO	---	Text Editor doesn't work on ARM Platform	2012-05-01
+22146	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Full page zoom affect functionality	2010-05-10
+23403	WebKit	WebKit A	webkit-unassigned@lists.web...	UNCO	---	Cannot open RSS feeds when running WebKit r39960 on Windows in Safari	2009-01-17
+23833	WebKit	Layout a	webkit-unassigned@lists.web...	UNCO	---	rendering bug using horizontal scrollbar	2009-02-08
+23838	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Gmail fails to load	2009-04-03
+28746	WebKit	Accessib	webkit-unassigned@lists.web...	UNCO	---	AX: find-in-page should also show me hits in image alt-text	2013-09-30
+31073	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	Newline fails at copypasting a text	2011-12-19
+38547	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	Solaris x86_64 - WTF_USE_JSVALUE64 problem - seg faults in Structure::Structure	2010-06-11
+39529	WebKit	Text	webkit-unassigned@lists.web...	UNCO	---	Error in displaying superscript in column	2010-05-22
+43331	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	Dojo DnD functionality: Option dropped on the MultiSelect widget cannot be selected	2010-08-02
+53137	WebKit	Accessib	webkit-unassigned@lists.web...	UNCO	---	[Gtk] Google search list/autocomplete is completely inaccessible	2017-03-11
+61007	WebKit	XML	webkit-unassigned@lists.web...	UNCO	---	Allow custom schemes to use XMLHttpRequest	2013-04-02
+77346	WebKit	XML	webkit-unassigned@lists.web...	UNCO	---	NULL ptr deref in xmlXPathNodeCollectAndTest	2012-01-31
+100112	WebKit	WebKitGT	webkit-unassigned@lists.web...	UNCO	---	[GTK] segfault when entering some contact name into GooglePlus recipient field	2017-03-11
+111758	WebKit	CSS	webkit-unassigned@lists.web...	UNCO	---	Incomplete repaint on image load if <html> has 3D transform	2013-03-08
+123493	WebKit	WebCore	webkit-unassigned@lists.web...	UNCO	---	webcore may send error http headers when this resource should be 304	2013-10-29
+30169	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	Browser crashes while page reloading after renewing content on website	2009-10-07
+122768	WebKit	New Bugs	webkit-unassigned@lists.web...	UNCO	---	:active applied to all parents of element:active	2022-08-19
+23058	WebKit	History	webkit-unassigned@lists.web...	UNCO	---	Object-based navigation causes history corruption (and unexpected behavior)	2008-12-31
+26259	WebKit	Page Loa	webkit-unassigned@lists.web...	UNCO	---	netflix pop under ads are not blocked when "Block popup windows" is checked	2009-06-08
+63136	WebKit	DOM	dglazkov@chromium.org	NEW	---	webkit.dll!WebCore::Position::Position DebugBreak (741bf64f0ba0949baaa5b919dc2b79b1)	2011-07-14
+66219	WebKit	CSS	hyatt@apple.com	NEW	---	CSS style code incorrectly assumes WebCore::Document::documentElement() does not return NULL	2011-10-23
+17311	WebKit	CSS	mitz@webkit.org	NEW	---	REGRESSION (3.0.4-TOT): Several pseudocolors (CSS2, originally defined by MS) are badly assigned	2010-06-10
+15166	WebKit	Frames	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Tabbing doesn't return focus to address bar when expected	2011-06-06
+18309	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Crash when typing enter+´ in rapid succession at google.com	2008-04-07
+18425	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Link doesn't receive focus when clicked	2022-07-11
+19151	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	prepareForTextInsertion assumes Position is not null (even though it can be)	2017-07-18
+19735	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	WebKit hangs when bulleting lists in google presentations	2010-07-08
+21161	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Bottom of GMail message box draws overlapped, missing shadow	2008-09-26
+22514	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	REGRESSION (3.2-TOT): Gmail often never finishes loading	2008-11-26
+26307	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Safari hangs while trying to edit the HTML source in sites rich text editor	2009-06-16
+31431	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Cannot scroll to see footer on camendesign.com	2022-07-27
+33092	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Freeze when inserting list with document.execCommand()	2010-10-27
+50447	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::AppendNodeCommand::AppendNodeCommand ReadAV@NULL (3c69c96576a9146f251ce6b27fed9737)	2011-10-02
+50664	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	REGRESSION (r58075): Pretty diffs in layout test results load external resources	2010-12-08
+51322	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::CompositeEditCommand::cloneParagraphUnderNewElement ReadAV@NULL (f84a03432e24e16d27d29d94f72b0b0f)	2010-12-27
+51644	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::Node::isBlockFlow ReadAV@NULL (8740b2b92337948c3b9246f2bb3a58f0)	2011-11-15
+51673	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::RenderBlock::addChildIgnoringAnonymousColumnBlocks ReadAV@NULL (920f5522b6092d55727c9be058273715)	2011-11-15
+52143	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Freeze (infinite loop) with execCommand	2011-05-21
+53082	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	SVG: "margin" style not properly applied to xhtml foreignObjects	2022-10-12
+54734	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore..ApplyStyleCommand..pushDownInlineStyleAroundNode OOM (93871a71195a4feb563917607f83aaa6)	2011-03-28
+54740	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::RenderBlock::addFocusRingRects OOM (404d82428bd920c896c411920eae1898)	2011-06-20
+54897	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::RenderBlock::deleteLineBoxTree ReadAV@NULL (1dcc16082f96d7624e2b8335a06633d2)	2011-02-22
+60774	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::AXObjectCache::getOrCreate+7 RecursionSOV (c63078b54367df6976e3c1df9c756ebf)	2011-05-14
+64282	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	addLayers, Element::recalcStyle, RenderObject::removeLayers infinite recursion	2011-07-11
+66287	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Element without renderer as documentElement triggers NULL ptr	2011-09-06
+74843	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Editing OOM/NULL ptr	2011-12-19
+74844	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore..CompositeEditCommand..insertNodeAt ReadAV@NULL	2011-12-19
+74846	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::RenderBlock::LineBreaker::nextLineBreak+7 RecursionSOV (22b5c8c5886a8d4ec141616f758d9e00)	2011-12-20
+74855	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	chrome.dll!WebCore::RenderBlock::layout+3 RecursionSOV (778c8b32c6289e0e4786686a99048cba)	2011-12-19
+75845	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	NULL ptr in WebCore::InsertNodeBeforeCommand::InsertNodeBeforeCommand	2012-01-09
+75850	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	NULL ptr in WebCore::Node::traverseNextSibling	2012-01-09
+76256	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	NULL ptr in WebCore::VisibleSelection::firstRange	2012-01-13
+76260	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	NULL ptr in WebCore::CompositeEditCommand::breakOutOfEmptyListItem	2012-01-13
+77195	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	NULL ptr in WebCore::Node::rendererIsEditable	2012-10-01
+102611	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Repaint badness on Google+ photos page (position fixed)	2012-12-18
+114441	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Shadow DOM doesn't support webkit-transform	2022-08-10
+114579	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Artifacts when scaling non-scaling-strokes	2022-10-10
+125080	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	When preserve-3d is disabled due to the GPU, it should not be reported as supported	2019-05-03
+139664	WebKit	Web Audi	webkit-unassigned@lists.web...	NEW	---	Crash with cyclic channel merger	2014-12-17
+155299	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Proportional CJK Punctuation Mark could overlap with initial glyph in hyperlink in case of enabling 'palt' feature.	2016-03-28
+155319	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	@font-face omitting both font-variant and font-variant-east-asian whether unicode-range is defined or not.	2016-04-16
+162117	WebKit	Frames	webkit-unassigned@lists.web...	NEW	---	Broken Redirect to iTunes store from within iFrame on iOS9+ Safari	2016-09-20
+183871	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Google Slides: SVG image rendering bug with filters	2022-10-10
+191053	WebKit	Media	webkit-unassigned@lists.web...	NEW	---	Fix Safari macOS/iOS high speed audio/video algorithm	10:46:37
+222723	WebKit	Canvas	webkit-unassigned@lists.web...	NEW	---	Canvas Memory Leak	2021-03-19
+228726	WebKit	WebAssem	webkit-unassigned@lists.web...	NEW	---	WebAssembly version of Google Earth fails to run on iPad Pro	2021-09-13
+79273	WebKit	DOM	abarth@webkit.org	NEW	---	HTML Comments after </body> are placed at the bottom of the <body> contents	2022-08-09
+97270	WebKit	WebCore	abarth@webkit.org	NEW	---	DOM-in-JavaScript performance experiments	2017-07-18
+185870	WebKit	New Bugs	achristensen@apple.com	NEW	---	Enable Server-Timing by default	2021-10-04
+245449	WebKit	Forms	ahmad.saleem792@gmail.com	NEW	---	Open a color input with display:none via a label	2022-10-05
+107217	WebKit	Tools /	alancutter@chromium.org	NEW	---	Improve commit-queue's merge error reporting in Bugzilla	2013-01-17
+108463	WebKit	Tools /	alancutter@chromium.org	NEW	---	check-webkit-style does not know about Google App Engine Python libraries	2013-01-31
+170287	WebKit	Web Temp	annulen@yandex.ru	NEW	---	Allow using system library for double-conversion instead of bundled copy in wtf/dtoa	2017-04-02
+173558	WebKit	WebCore	annulen@yandex.ru	NEW	---	Add missing override specifiers to ANGLE	2017-06-25
+13031	WebKit	Forms	ap@webkit.org	NEW	---	[Mac] onkeydown prevents keyboard shortcuts from working on this page when the input field had focus.	2010-06-10
+30893	WebKit	WebCore	arv@chromium.org	NEW	---	wrong global context used when dragging an image into an iframe	2009-11-09
+82259	WebKit	Tools /	barraclough@apple.com	NEW	---	Layout Test fast/regex/unicodeCaseInsensitive.html is failing	2012-03-27
+126591	WebKit	Printing	benjamin@webkit.org	NEW	---	vw units don't look at the right viewport in print media	2022-08-31
+133642	WebKit	UI Event	benjamin@webkit.org	NEW	---	Expose Touch radius	2017-04-19
+134705	WebKit	UI Event	benjamin@webkit.org	NEW	---	Enable touch-driven pull-to-refresh scenarios	2017-07-18
+136531	WebKit	DOM	benjamin@webkit.org	NEW	---	touchend/cancel not fired when performing back navigation using touch drag from the bezel	2019-02-06
+138151	WebKit	UI Event	benjamin@webkit.org	NEW	---	Can't reliably detect tap from JavaScript	2015-08-18
+144688	WebKit	UI Event	benjamin@webkit.org	NEW	---	Touch event timeout is flaky	2015-06-30
+142179	WebKit	Layout a	bjonesbe@adobe.com	NEW	---	REGRESSION(r178045): Share links bar is improperly positioned on www.ibm.com	2015-04-08
+23119	WebKit	Platform	brettw@chromium.org	NEW	---	Provide a way for the fonts to prohibit complex text handling	2009-04-08
+192980	WebKit	Layout a	cathiechen@igalia.com	NEW	---	[css-lists] Fix list marker issues related to line breaks and markers disappearance	2022-10-07
+191127	WebKit	DOM	cdumez@apple.com	NEW	---	Disallow window.open() during unload	2022-07-01
+31496	WebKit	Forms	cfleizach@apple.com	NEW	---	floated links aren't selected when tabbing (tab-through links on a page)	2017-09-11
+219285	WebKit	WebKit M	clord@igalia.com	NEW	---	WTF::StringImpl is not thread-safe	2021-02-01
+24807	WebKit	Layout a	cmarrin@apple.com	NEW	---	Don't run transitions when the user zooms	2022-09-20
+26089	WebKit	Layout a	cmarrin@apple.com	NEW	---	Transition of mismatched transforms with negative X scale does odd Y flip	Sun 05:05
+52710	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: http/tests/appcache/fallback.html	2011-04-27
+53035	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: http/tests/security/cross-origin-css.html	2011-03-04
+58630	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: media/video-played-collapse.html	2013-06-12
+58673	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: transitions/change-values-during-transition.html	2014-10-20
+114289	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: transitions/shorthand-transitions.html	2013-04-23
+114675	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: media/video-played-ranges-1.html	2013-04-16
+116268	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: media/video-autoplay.html	2013-05-16
+116269	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: media/video-aspect-ratio.html	2013-05-16
+123736	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: webaudio/delaynode-maxdelay.html	2013-11-04
+149498	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: fast/canvas/webgl/tex-image-and-sub-image-2d-with-video.html	2015-09-23
+164393	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: webaudio/audiobuffersource-playbackrate.html	2016-11-05
+203538	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: webaudio/stereo2mono-down-mixing.html	2019-10-30
+208760	WebKit	Tools /	commit-queue@webkit.org	NEW	---	Flaky Test: editing/spelling/spellcheck-paste.html	2020-03-07
+111869	WebKit	WebCore	dbates@webkit.org	NEW	---	CSP: Blocking 'eval()' is currently unreportable.	2022-02-08
+172929	WebKit	Tools /	dbates@webkit.org	NEW	---	webkitpy: Extract ScriptError to its own file	2017-06-08
+188754	WebKit	Tools /	ddkilzer@webkit.org	NEW	---	Tool to fix folders that should map to directories in Xcode project files	2022-02-09
+62758	WebKit	Images	dglazkov@chromium.org	NEW	---	[Meta] Replace input[type=file] Icon-loading plumbing with the standard image plumbing	2011-06-15
+67695	WebKit	CSS	dino@apple.com	NEW	---	(animated?) rotate and rotate3d improperly handle values over 180 degrees	2011-09-22
+195325	WebKit	Canvas	dino@apple.com	NEW	---	Canvas context allocation fails because "Total canvas memory use exceeds the maximum limit"	2022-09-23
+67312	WebKit	DOM	dominicc@chromium.org	NEW	---	[meta] EventTarget should be in the prototype chain	2020-04-05
+103854	WebKit	Layout a	dongseong.hwang@intel.com	NEW	---	[META] Coordinated Graphics: Refactoring TextureMapper to work in an actor model	2013-06-20
+107059	WebKit	Layout a	dongseong.hwang@intel.com	NEW	---	Coordinated Graphics: Paint contents on a backing store only when RenderLayerBacking requests.	2013-01-22
+149614	WebKit	Web Insp	drousso@apple.com	NEW	---	Web Inspector: AXI: Web Accessibility Audit	2018-10-18
+200234	WebKit	Web Insp	drousso@apple.com	NEW	---	Web Inspector: Provide a way to disable all event listeners	2021-06-23
+90581	WebKit	New Bugs	dstockwell@chromium.org	NEW	---	REGRESSION (r107745): Style may not be recalculated correctly when an attribute selector specifies a presentation attribute	2012-07-18
+142240	WebKit	WebKit2	enrica@apple.com	NEW	---	Incomplete dictation results in text fields in a web page.	2015-03-03
+55164	WebKit	New Bugs	eric@webkit.org	NEW	---	Long-sleeping php jobs may be causing the server to time out requests	2011-11-10
+59348	WebKit	Tools /	eric@webkit.org	NEW	---	Find large header files	2022-06-14
+92800	WebKit	Tables	eric@webkit.org	NEW	---	page is repainting more than it should when adding a new (offscreen) table element	2013-05-13
+103565	WebKit	Tools /	eric@webkit.org	NEW	---	--profile should tell me how to install pprof if the command fails	2012-11-28
+107371	WebKit	New Bugs	eric@webkit.org	NEW	---	Pre-allocate our CompatHTMLToken Vector since we know how big it will be the the common case	2013-03-09
+40636	WebKit	Page Loa	fishd@chromium.org	NEW	---	top.history.replaceState / top.location.replace after a subframe navigation fails to update the previous back/forward entry	2010-09-27
+115387	WebKit	Tools /	glenn@skynav.com	NEW	---	[webkitpy] Need suggest-emeriti command	2018-02-01
+64143	WebKit	Forms	haraken@chromium.org	NEW	---	REGRESSION (r60268): Page-Up or Page-Down scrolls a scrollable textarea and the next embedding scrollable area at the same time	2017-07-18
+77393	WebKit	WebCore	haraken@chromium.org	NEW	---	[meta] Clean up IDLs being used in WebKit	2013-11-20
+79327	WebKit	WebCore	haraken@chromium.org	NEW	---	[meta] Modularize WebKit	2021-10-05
+94324	WebKit	DOM	haraken@chromium.org	NEW	---	meta: Remove unnecessary RefPtr<Node>s from Nodes	2012-08-17
+171618	WebKit	Tools /	Hironori.Fujii@sony.com	NEW	---	[Win][Meta] Build WebKit using Clang	2021-12-26
+5004	WebKit	Tables	hyatt@apple.com	NEW	---	Tables: height:100% + overflow auto not working in table cell	2022-07-06
+84543	WebKit	CSS	igor.oliveira@webkit.org	NEW	---	unicode-bidi:plaintext treats embedded element with unicode-bidi:plaintext or isolate incorrectly	2022-09-11
+138161	WebKit	Tools /	jake.nielsen.webkit@gmail.com	NEW	---	webkitpy needs a results.html file to render the results.json file for human eyes.	2017-04-25
+78407	WebKit	WebGL	jbauman@chromium.org	NEW	---	Don't rebuild compositing layers on every WebGL draw	2014-01-09
+114530	WebKit	WebCore	jer.noble@apple.com	NEW	---	requestFullscreen on the current fullscreen element should fire fullscreen error.	2022-09-12
+214722	WebKit	WebCore	jiewen_tan@apple.com	NEW	---	Propagating media only user gesture through Fetch ReadableStream	2020-07-31
+65855	WebKit	Page Loa	jochen@chromium.org	NEW	---	Add a ResourceRequestBase::Context class that is part of a ResourceRequest	2012-05-18
+142656	WebKit	Web Insp	joepeck@webkit.org	NEW	---	Web Inspector: Expose a way for developer provided object previews	2016-12-13
+201995	WebKit	WebKit M	joepeck@webkit.org	NEW	---	Cannot drag blocks or spacers when editing pages on squarespace.com when UserAgent contains "Version/13" and is non-mobile	2019-09-25
+29665	WebKit	WebCore	johnnyg@google.com	NEW	---	HitTestResults for links in image maps respond false to .isLiveLink()	2013-05-10
+94844	WebKit	Page Loa	jonlee@apple.com	NEW	---	[Mac] WebKit should be caching POST responses in memory only	2018-03-21
+44862	WebKit	HTML Edi	joone@webkit.org	NEW	---	Make the caret more visible on any background	2022-02-14
+17873	WebKit	Page Loa	jshin@chromium.org	NEW	---	Encoding override should not be persistent	2017-07-18
+222382	WebKit	JavaScri	justin_michaud@apple.com	NEW	---	WebAssembly: SIMD support	2022-10-11
+172801	WebKit	Layout a	karlcow@apple.com	NEW	---	Replace hardcoded <hr> rendering rules with 'overflow: hidden' UA style	2022-09-26
+18598	WebKit	New Bugs	kmccullough@apple.com	NEW	---	Google Reader shows the same YouTube video for every video	2008-06-11
+87336	WebKit	WebCore	li.yin@intel.com	NEW	---	[WebSocket] WebSocket object should fire error event when WebSocket server can't be connected.	2016-05-18
+122815	WebKit	Layout a	lvidacs.u-szeged@partner.sa...	NEW	---	Optimize RenderBlock::lowestFloatLogicalBottom by caching previously calculated values	2016-09-17
+129313	WebKit	Text	mario@webkit.org	NEW	---	Ellipsis is not properly placed for truncated text inside blocks with horizontal border or padding	2022-07-13
+53524	WebKit	HTML Edi	max.hong.shen@gmail.com	NEW	---	Delete does nothing on the line after a display:block image	2012-05-17
+138127	WebKit	History	mcatanzaro@gnome.org	NEW	---	Insecure content warnings not emitted when page is restored from page cache	2022-07-19
+191481	WebKit	UI Event	mcatanzaro@gnome.org	NEW	---	REGRESSION(r223264): [GTK] Unable to drag documents on Google Drive	2018-11-13
+41908	WebKit	WebCore	michaeln@google.com	NEW	---	Implement ApplicationCache APIs in Web SharedWorkers.	2013-04-02
+6148	WebKit	Layout a	mmaxfield@apple.com	NEW	---	WebKit doesn't shape characters (like Arabic) across style changes	2022-07-01
+86817	WebKit	CSS	mmaxfield@apple.com	NEW	---	Downloadable font loads should be subject to CORS	2022-09-29
+120499	WebKit	Layout a	mmaxfield@apple.com	NEW	---	Font-faces with different styles should not be mixed in a CSSSegmentedFontFace	2017-06-07
+120887	WebKit	Layout a	mmaxfield@apple.com	NEW	---	unicode-bidi: plaintext is treating embedded unicode-bidi: isolate incorrectly	2016-04-11
+122850	WebKit	Layout a	mmaxfield@apple.com	NEW	---	Avoid iterating over all the isolate characters	2013-10-15
+140553	WebKit	Layout a	mmaxfield@apple.com	NEW	---	Apple SD Gothic Neo : {Thin, UltraLight, Light} and {ExtraBold, Heavy} are not distinguished with font-weight in CSS	2017-11-22
+141120	WebKit	Layout a	mmaxfield@apple.com	NEW	---	Negative text-indent with Unicode characters result in positive width	2015-02-01
+111179	WebKit	Platform	mrobinson@webkit.org	NEW	---	[Cairo] Surface pointer passed to asNewNativeImage() might be freed.	2017-03-06
+65617	WebKit	CSS	noam@webkit.org	NEW	---	Make unicode-bidi:isolate the default for block elements instead of unicode-bidi:embed	2022-07-16
+26508	WebKit	JavaScri	oliver@apple.com	NEW	---	Reimplement the prototype direct get by id optimisation	2009-06-18
+56611	WebKit	JavaScri	oliver@apple.com	NEW	---	Replace CRASH with RELEASE_ASSERT	2011-03-18
+105230	WebKit	Layout a	pdr@google.com	NEW	---	[Graphics] PathTraversalState.cpp does too many sqrts!	2012-12-21
+113667	WebKit	SVG	pdr@google.com	NEW	---	Implement SVG2's buffered-rendering property for paths	2013-04-01
+87527	WebKit	WebCore	pf@parb.es	NEW	---	Increase the set of script @type values that we treat as JavaScript	2022-09-04
+245876	WebKit	Media	philn@igalia.com	NEW	---	[GStreamer] FLAC Audio Format Support	2022-10-04
+27238	WebKit	Images	pkasting@google.com	NEW	---	Animated GIF dynamically removed and readded to page does not re-animate	2012-01-30
+110880	WebKit	WebCore	rakuco@webkit.org	NEW	---	Cross-origin XSLT requests with CORS should be allowed	2019-12-17
+69465	WebKit	Tools /	reed@google.com	NEW	---	Layout Test fast/forms/select-background-none.html is failing on Linux	2012-05-15
+85070	WebKit	New Bugs	reed@google.com	NEW	---	optional SkRegion implementation of WebCore::Region	2012-04-30
+123959	WebKit	Tools /	rniwa@webkit.org	NEW	---	Fix isolatedWorld/storage-properties.html to cleanup after itself	2022-09-11
+126198	WebKit	UI Event	rniwa@webkit.org	NEW	---	Add more tests for dragging contents	2016-03-14
+92768	WebKit	Web Audi	rtoy@chromium.org	NEW	---	JavascriptAudioNode with zero output channels should still process any inputs	2012-07-31
+38954	WebKit	Layout a	rwlbuis@gmail.com	NEW	---	ASSERTION FAILED: rootLayer == m_clipRectsRoot with this testcase	2019-12-19
+75451	WebKit	WebCore	sam@webkit.org	NEW	---	REGRESSION(r100517): Finalizers are not run for many, many DOM objects!	2012-04-03
+67441	WebKit	New Bugs	scottbyer@chromium.org	NEW	---	Emacs enhancements for working on WebKit.	2012-05-21
+96347	WebKit	New Bugs	sievers@chromium.org	NEW	---	add decoration layer type	2012-09-24
+70198	WebKit	WebKit2	simon.fraser@apple.com	NEW	---	[Mac] "Smooth scrolling" is not very smooth with scroll wheel	2022-01-27
+88587	WebKit	Layout a	simon.fraser@apple.com	NEW	---	Z coordinate incorrect in -webkit-transform-origin Safari	2022-10-05
+170981	WebKit	DOM	simon.fraser@apple.com	NEW	---	Pinch-zoom should be invisible to the application by default	2021-08-26
+209486	WebKit	Scrollin	simon.fraser@apple.com	NEW	---	Drifting when scrolling an iframe that scrolls on both axes	2021-03-18
+213738	WebKit	Layout a	simon.fraser@apple.com	NEW	---	REGRESSION(r260276) Z-ordering issue with content inside overflow:scroll element with negative y translate	2020-08-24
+218369	WebKit	CSS	simon.fraser@apple.com	NEW	---	Ensure the grouping properties set transform-style to flat	2021-11-01
+229141	WebKit	Layout a	simon.fraser@apple.com	NEW	---	CSS transform interoperability of parent versus containing block for 3D Rendering Contexts and perspective	2022-10-05
+63300	WebKit	Page Loa	simonjam@chromium.org	NEW	---	Stop listening for CachedScript events as soon as notifyFinished() is called	2011-06-24
+90935	WebKit	Images	skyul@company100.com	NEW	---	Add parallel image decoders	2014-02-05
+67630	WebKit	Layout a	ssandela@innominds.com	NEW	---	A scrollbar area is not repainted correctly	2012-04-09
+111927	WebKit	SVG	tasak@google.com	NEW	---	Style updates are not propagated to <use> elements after creation	2022-10-10
+149000	WebKit	New Bugs	timothy@apple.com	NEW	---	Some extensions triggers CSP violation reports	2022-08-12
+109219	WebKit	WebCore	tommyw@google.com	NEW	---	LocalMediaStream wrapped as a MediaStream despite having IDL for the subtype.	2013-02-08
+24362	WebKit	HTML Edi	tony@chromium.org	NEW	---	Cannot backspace out of list at start of contentEditable region	2013-03-15
+35281	WebKit	HTML Edi	tony@chromium.org	NEW	---	when deleting lines between lists, we should try to merge the lists	2017-07-18
+56186	WebKit	Tools /	tonyg@chromium.org	NEW	---	http/tests/misc/script-async.html failed once on Windows	2011-05-04
+99945	WebKit	CSS	tuankiet65@gmail.com	NEW	---	[meta] Implement CSS3 text-justify feature on webkit	2022-09-22
+63206	WebKit	Tools /	webkit.review.bot@gmail.com	NEW	---	Flaky Test: fast/filesystem/filesystem-uri-origin.html	2011-07-11
+69281	WebKit	New Bugs	webkit.review.bot@gmail.com	NEW	---	webkit-patch add-users-to-groups fails with python exception	2011-10-03
+3409	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	CSS1: Safari ignores "text-transform" attribute in "first-line" CSS rules	2022-05-13
+4079	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	Support EXSLT with libexslt	2022-07-06
+5097	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	CSS2: page-break-after does not work	2022-07-11
+5646	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Closing large HTML file hangs Safari	2006-06-30
+5853	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	REGRESSION (10.4.2): Editable webviews auto-scroll more easily than they used to during drag over content	2007-12-10
+5991	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	[CSSOM View] Implement standard behavior for scroll(Left/Top/Width/Height/To/By/ingElement)	2021-10-09
+6022	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	SVG Filters do not support source images besides "sourceGraphic" and "sourceAlpha"	2016-04-13
+7161	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	<iframe src=""> load event is dispatched synchronously unlike Chrome Canary and Firefox	2022-07-31
+7712	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	GoogleDocs: Master Bug	2008-02-24
+8095	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	REGRESSION: After modifying text field and switching to another tab, Undo Typing is still displayed in Edit menu	2007-12-10
+8735	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	CSS 2.1 visibility: collapse rendered as visibility: hidden	2022-06-05
+8909	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Vertical scrollbar appears to detach during horizontal scrolling	2022-08-30
+9098	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Keyboard shortcuts don't work in GMail until you click in the page	2008-11-18
+9534	WebKit	Text	webkit-unassigned@lists.web...	NEW	---	Improve synthetic bold	2019-06-19
+9567	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	Images without ICC profiles should be assumed to be sRGB.	2022-07-06
+9638	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	GMail Editor: Master Bug	2019-04-22
+9641	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	GMail Editor: "Quote" can only add one level of quoting	2007-11-19
+9915	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	CKEditor (ex-FCKeditor) Master Bug	2011-03-27
+11089	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	GoogleDocs: Subscript/Superscript text isn't the correct font size	2017-07-18
+11331	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Selecting all of a list's items and deleting doesn't always delete the list	2017-07-18
+12424	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Shift-Tab broken after going back in history	2007-01-26
+12660	WebKit	History	webkit-unassigned@lists.web...	NEW	---	History is wrong when i go back to google.com/ig with calendar widget.	2007-12-10
+12736	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Assertion failure going back-forward	2007-02-11
+12812	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	REGRESSION: In Gmail Check Spelling As you Type underline doesn't cover certain words	2007-12-10
+12892	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Sometimes WebKit honors favicon in LINK sometimes doesn't if diff favicon is in root of server	2008-12-10
+13222	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Copying and Pasting a Table into Text Editor produces mangled text	2008-12-01
+13484	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Menu rendering problem at travel.state.gov	2007-06-08
+13755	WebKit	History	webkit-unassigned@lists.web...	NEW	---	Relative links with "://" in them are never colored as visited after being clicked	2022-08-29
+13866	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Padding ignored on new <select> control	2022-07-07
+13991	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	myspace profile layouts bring safari to a crawl	2009-08-17
+14309	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	Table captions have incorrect width when the table has vertical borders	2022-06-21
+15256	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Impossible to place an editable selection inside empty elements	2022-09-01
+15300	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Background color drawn beyond end of line when selecting text	2008-07-03
+15548	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Support CSS3 Paged Media (@page)	2022-06-18
+15709	WebKit	Printing	webkit-unassigned@lists.web...	NEW	---	Image appears as broken image icon when printing	2009-03-15
+15788	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Eliminate ContextMenuClient::searchWithGoogle()	2007-11-17
+16067	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Image loses all properties when moved around in designMode	2009-03-31
+16122	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	When posting to these boards, all Safari users have "webkitformboundary-gibberish" appended to their name and message	2022-06-21
+16224	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Google Reader:Embedded Flash video appears above frame on scroll	2007-12-02
+16240	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Safari/WebKit/CFNetwork shows "Loading n of n+3..." entire time gmail is open	2007-12-10
+16241	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Drosera should offer to turn on Safari Debug menu if it's off	2007-12-02
+16263	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	ipay.adp.com not rendering embedded PDF because of non standard <embed> usage	2007-12-10
+16465	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Shift + Tab in the a search field allows editing placeholder text	2012-10-11
+16576	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Crash leaving bathandbodyworks.com to search google	2008-12-15
+16855	WebKit	Frames	webkit-unassigned@lists.web...	NEW	---	Multiple correctness issues with javascript URLs	2010-06-10
+17098	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Replace our broken KURL with Google URL	2010-04-15
+17105	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Not all of KURL's constructors handle IDN.	2010-04-15
+17142	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	GMail Auto-complete sometimes fails	2008-03-26
+17205	WebKit	Printing	webkit-unassigned@lists.web...	NEW	---	THEAD & TFOOT should be printed on every page	2022-08-18
+17307	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	KURL (and the rest of WebCore) needs unit testing	2011-03-02
+17316	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Long Hang in WebKit editing code	2008-02-11
+17534	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Every XMLHttpRequest leaks memory, at least for Safari Activity window	2013-06-28
+17583	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	Inconsistency between browsers of rendering tables with fixed layout and width set to 'auto'	2011-02-09
+17592	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	FOUC @ finance.google.com	2008-02-28
+17841	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	FireFox 3 redraws less than Safari 3 when scrolling DIVs with "overflow: auto"	2008-03-19
+17960	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	"new document" opens in a new window in Safari, new tab in FireFox	2008-03-19
+18000	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	ASSERTs in FrameView::scheduleRelayout()	2008-04-13
+18129	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	webkit doesn't set BGCOLOR for an empty cell <td>	2022-08-15
+18395	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Image border not shown when enclosed in an anchor element	2010-06-01
+18529	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	overflow: auto div fails to scroll with keyboard?	2008-04-16
+18656	WebKit	History	webkit-unassigned@lists.web...	NEW	---	cannot enter bookmarks view when tab/window is viewing Google Reader	2008-06-06
+19317	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	iframe in table has zero height	2008-10-29
+19416	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Hitting [enter] inside a blockquote creates a new blockquote	2011-08-19
+19464	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Google Docs Documents open in new window (instead of new tab)	2008-06-10
+19522	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	control-M to insert comment in docs.google.com document does not work	2008-06-12
+19532	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	WebKit needs find and replace support for contenteditable regions	2011-06-21
+19561	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	Safari is very slow to load page with lots of images (FF is much faster)	2008-06-16
+19665	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Full Page zoom renders incorrectly.	2009-07-06
+19913	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	"?" rhombi are shown instead of accentuated characters at some localized GMail log-in pages	2012-12-17
+20018	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Linking to style sheets with HTTP headers is not implemented in WebKit	2013-10-17
+20236	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	Windows: Selection in editable elements is cleared when scrolling using scrollbar	2010-04-22
+20502	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	The back/forward cache breaks Acid 2 eyes fallback content	2008-08-24
+20611	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Navigation -- drop-down menu doesn't display	2008-09-08
+21010	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	WebKit needs C++ Unit tests	2011-04-24
+21279	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Support ime-mode (CSS property)	2014-04-04
+21453	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	WebKit formats Browse by Title differently than IE or FF	2008-10-29
+21479	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Backspacing after radio and checkboxes in contenteditable delete wrong content	2022-06-30
+21579	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Negative value defined for margin is causing the misalignment	2014-04-22
+21607	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	Consider subclassing Platform*Event to initialize using platform specific types	2008-10-29
+21630	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	content not center aligned due to "table-layout:fixed"	2022-08-31
+21762	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	CSS Selector Scope differs from IE7 & FF3	2022-07-22
+21805	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	Can't change selection in non-editable areas with shift+arrows	2010-11-03
+21908	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	size attribute has no effect for input tag file type	2010-06-10
+21938	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	suboptimal scrolling performance in gmail (firefox3 is much faster)	2008-11-21
+21960	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Chrome/Safari selects the region outside the element	2009-11-21
+21971	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	KURL/Safari doesn't handle UNC properly	2010-04-15
+21975	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	decodeURLEscapeSequences will generate embedded null characters	2014-01-28
+21977	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	KURL should prohibit most escape sequences in hostnames	2010-04-15
+22050	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	overlapping of header image and links	2022-08-29
+22130	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	Visited link hashing allows spoofing of link visited status	2008-11-07
+22270	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Infragistics for ASP.NET 2008.2 widgets are not rendered properly	2008-11-14
+22339	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Support Indian web sites with EOT by on-the-fly transcoding to Unicode	2013-02-11
+22386	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	The shape of caret does not indicate the language direction	2010-08-23
+22457	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Webpages without bgcolor definition are rendered transparent by default when transparency is activated	2010-06-10
+22691	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	javascript .select() method doesn't work from onfocus	2022-09-18
+23156	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Windows: No support for platform keyboard shortcut right shift + right control to set writing direction.	2010-06-10
+23209	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	[Meta] Transitions and animations do not apply to CSS generated content	2016-07-08
+23372	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Repeatedly overwriting img.src can cause memory exhaustion	2010-12-02
+23457	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	RTL: Weird behavior when trying to select Hebrew text	2011-03-29
+23507	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	pressing enter inside a list item doesn't create new list item	2017-07-18
+23723	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	TEXTAREA is stripping newlines when form is posted	2022-08-19
+23735	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	window.location.reload() after a POST doesn't resend the post data	2013-05-14
+23793	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	WebKit needs separate VisibleSelection and Selection data storage	2011-08-19
+23945	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	Please add a function to WebKit to stop all in-progress GIF animations (on the current page only)	2020-03-23
+24029	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Focus ring (a sqare ring around an hyperlink) was not formed properly using a:hover or img:hover style	2009-02-19
+24095	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	http://b08.oi.edu.pl/ renders incorrectly	2009-11-15
+24167	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Second paragraph is converted from em to px when applying bullets	2011-08-19
+24180	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	RenderText::positionForCoordinates doesn't deal with overflow in lineboxes correctly	2017-07-18
+24278	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	RTL Regression: Caret position is wrong when typing RTL text in a LTR text box or type LTR text in a RTL text box	2011-03-30
+24408	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	page rendered incorrectly causing horizontal scrollbar to appear	2022-08-14
+24671	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Selection extends beyond the element when double-clicking a news ticker at news.bbc.co.uk	2010-10-13
+24673	WebKit	Printing	webkit-unassigned@lists.web...	NEW	---	Print selection doesn't work	2009-07-01
+24902	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Javascript <TR> style.display=block issue	2022-07-30
+24920	WebKit	WebKit W	webkit-unassigned@lists.web...	NEW	---	Bugzilla attachments cannot be tested with browsershots.org	2011-11-07
+24970	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	User profile is shifted to right side of page when there is lot of text in multitext fields	2022-08-14
+24987	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Cookies set to .nhs.uk are blocked/not served	2009-04-02
+25185	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	XSLT Text Transform: contains(TAB) matches SPACE	2010-01-22
+25222	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	RTL: extending selection after change text directionality behaves differently for textarea and div element	2011-01-26
+25281	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	ebay.com: Images of items in watch list overlap with check boxes due to table-layout:fixed	2022-09-02
+25298	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Ctrl + Right/Left arrow move forward/backward through document instead of right/left in RTL text	2013-10-02
+25543	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Canceling keydown should cancel IME input	2010-05-20
+25548	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	active blinking tab shows blank as ordering of the value returned by span.style.background property is different in webkit	2022-07-22
+25561	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Visiting supposed malware site hit ASSERT in Safari	2022-02-10
+25606	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Need a way to catch undo/redo (and cancel) in WebKit	2017-07-18
+25607	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Need a way to catch (and cancel?) any execCommand. Maybe document.onexeccommand = ?	2017-07-18
+25633	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	CSS3 Multi-column - image spans two columns	2013-08-14
+25745	WebKit	JavaScri	webkit-unassigned@lists.web...	NEW	---	JSC exposes unused offsets and sourceId on every exception	2017-07-18
+25747	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	question marks and parenthesis show up different places than typing in text edit	2017-07-18
+25830	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	border not aligned due to td width	2022-07-22
+25857	WebKit	Web Temp	webkit-unassigned@lists.web...	NEW	---	new dtoa.cpp strict-aliasing issues with gcc 4.4	2009-06-30
+25866	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Printing using media type other than "print"	2016-05-27
+25892	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	Tablet Input Panel icon does not appear when a text field is focused via touching a touchscreen	2009-05-21
+25906	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Need a way to get a preview image/icon from a File object	2009-06-05
+26401	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	mousemove event fired on click, even though the mouse does not move	2011-08-30
+26518	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Square brackets ('[' and ']' : Gmail keyboard shortcut) not working properly with Italian keyboard	2022-09-10
+26641	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Safari consumes 100% CPU after leaving GMail open (gmail is installing a billion timers)	2011-06-24
+26737	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Two SVG text tests fail locally	2009-06-25
+26804	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Line Feed in input value attribute moves text out of button	2022-09-07
+26898	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Hitting F5 in a text field generates 't'	2009-07-01
+27558	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	corrupted rendering for css styled scrollbars on main window	2022-08-31
+27670	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Unable to set drag image for a link using setDragImage	2013-07-24
+27802	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Encoding override is not applied to all the contents in the page.	2017-07-18
+28031	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	image doesn't render when width and height are defined in percentage with <table><div> as its parent elements	2012-03-31
+28032	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	[www.problematique.ru]: Navigation panel is not rendered	2022-07-11
+28123	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	File input value is not cloned by importNode()	2022-09-04
+28328	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	javascript execution sequence.	2022-08-16
+28392	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Scrolling a Google Spreadsheet slower than Firefox (much worse on Windows)	2009-09-08
+28409	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	[Win] keypress should be dispatched for ctrl shortcuts	2019-03-12
+28637	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Page Header Not Rendered Correctly due to margin issue	2022-08-29
+28641	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	the scroll box is too big because <td> height is not honored when there's a marquee with a heading tag	2022-08-29
+28642	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Items spread all over the page due to width of marquee tag's container table	2022-08-30
+28646	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	CSS focus pseudoclass is not handled correctly	2022-07-12
+29045	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	"Go" button is not entirely displayed on umsystem.edu	2022-07-23
+29052	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	CSS Line Extends too far	2022-07-23
+29055	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Div align="center" last line of text shifted to the right	2022-08-06
+29060	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	displaying the selected option of a combo-box needs scrolling down	2022-08-30
+29062	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Consider integrating commit-queue with try servers	2009-10-01
+29087	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Gmail has no favicon	2009-09-11
+29636	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Long text lines are rendered as empty for the first 2**16 characters	2012-08-10
+29746	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Early returns in FrameLoader::loadURL harmful for plug-ins	2011-07-27
+29947	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	[meta] Re-factor FrameLoader	2017-07-18
+30015	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	text-transform:capitalize is failing in CSS2.1 test suite	2012-03-02
+30103	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Submitting an empty form with GET should not append a question mark	2015-07-17
+30359	WebKit	History	webkit-unassigned@lists.web...	NEW	---	REGRESSION: history.forward/history.go cut off rest of content	2009-10-14
+30518	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Bottom edge of focus ring around Google search result title is fractured	2009-10-19
+31304	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Clicking Comment Links on CodeProject Jumps to Middle of Page	2009-11-10
+31902	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	WebKit modifies the DOM after the compositionend event	2010-07-16
+32525	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Assertion failure in addStyleMarkup copying link text (from maps.google.com at least)	2009-12-17
+32759	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	REGRESSION (Safari 3-4): top/bottom scroll arrows introduce weird scrolling behavior	2011-05-29
+32825	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	WebKit (r52039) nightly hangs after crash	2009-12-23
+32916	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	XMLHttpRequest with failed authentication should not show login prompt if credentials are provided	2014-08-09
+32950	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	support "xslt-param" processing instruction for XSLT parameters	2010-01-22
+33226	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Indent inside li with br's changes order and creates new lists	2013-08-20
+33374	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	REGRESSION(r52976): svg/W3C-SVG-1.1/filters-conv-01-f.svg fails on Windows	2012-02-16
+33509	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	selection.modify() should throw an exception if it receives invalid parameters	2017-07-18
+33998	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	fillText() function on <canvas> doesn't work with @font-face remote fonts	2019-05-02
+34446	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	check-webkit-style should warn about TODO and NOTE instead of FIXME	2019-06-09
+34668	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	WebKit seems willing to load URLs it considers "invalid"	2010-04-15
+36044	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	can't display area focus ring via TAB or click on image area;	2012-02-08
+36358	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Cannot override proxy settings from the command line	2010-03-19
+36459	WebKit	Frames	webkit-unassigned@lists.web...	NEW	---	Assigning to window.name in an iframe breaks link targets in containing document.	2016-06-01
+37012	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	dropEffect not set to correct default values in dragenter / dragover	2017-07-18
+37017	WebKit	JavaScri	webkit-unassigned@lists.web...	NEW	---	Improvement to comments in JavaScriptCore header files	2010-04-02
+37165	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	No scrolling with flat frames	2017-05-02
+37315	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	DumpRenderTree should log pushState/replaceState changing URL in the address bar	2010-12-02
+37451	WebKit	Web Insp	webkit-unassigned@lists.web...	NEW	---	Web Inspector: Show Exact Font Being Used	2016-12-13
+37646	WebKit	Text	webkit-unassigned@lists.web...	NEW	---	Unreproducible: LastResort used for latin glyphs	2010-04-16
+38629	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	[WTFURL] Add a file URL parser	2010-08-07
+38984	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	document.documentElement cannot be replaced	2010-06-30
+39286	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	SVG DOM inside an embed isn't preserved when display:none is set	2011-12-10
+39614	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	autoinstall DEBUG logging is too chatty	2010-05-24
+39924	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Reducing page zoom causes incorrect component offset values	2011-06-24
+40154	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	[Gtk] Cause segmentation fault when an user clicks right mouse button on a text input control.	2017-03-11
+40829	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	Get a perfect score on html5test.com	2013-03-22
+41063	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Media query - width in 'em's doesn't work on zoom	2022-09-01
+41103	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Consider matching either Firefox or IE better in the characters that allow a linewrap	2012-08-23
+41220	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Google Images Gift Box example doesn't work	2010-06-25
+41419	WebKit	Web Insp	webkit-unassigned@lists.web...	NEW	---	We should log the reason when a secure wss WebSocket connection could not be established	2016-12-13
+41610	WebKit	WebKit A	webkit-unassigned@lists.web...	NEW	---	Duplicate Symbol definition warnings .	19:44:56
+42706	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	-webkit-transform leaves seams between elements on some platforms	2013-02-18
+42740	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	When a cell that spans multiple columns has 'width' other than 'auto', the width of unrelated columns may be affected incorrectly	2022-09-10
+42821	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	REGRESSION(63862): animations/play-state.html fails intermittently	2017-07-18
+43447	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Outdent moves text before other text	2011-11-07
+43911	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	foreignObject inside <defs> doesn't apply mask	2020-08-22
+44918	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Cannot make lists quoted on gmail	2017-07-18
+45840	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Unwanted parts of the image are visible with background-position after zooming	2014-11-18
+46615	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	LocalStorage could become slow as more origins start using it	2010-11-30
+47182	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Focus remains on hidden element	2017-04-24
+47570	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Wikipedia figures don't center themselves correctly	2013-01-29
+47618	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	offsetHeight and offsetWidth of <ins> element always 0 when text content enclosed in some other element	2022-07-30
+48495	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	webkit-patch land -g HEAD started failing, leaving uncommitted ChangeLog's	2017-07-18
+49068	WebKit	Accessib	webkit-unassigned@lists.web...	NEW	---	Spatial Navigation: Support <input type=text> with JS handlers attached to it.	2013-07-30
+50287	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	A radio button within label within legend can't be activated	08:20:10
+51167	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Home/end don't go to the start/end of an inline contenteditable unless they're at the start/end of a line	2011-02-23
+51638	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Protect path of HTTP Referer Header	2018-03-21
+52060	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Layout glitches at noflash.pl login page	2011-07-06
+52100	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	Table <td> with 100% height not taking it's sibling <td>'s img content into consideration	2022-09-10
+52149	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Returning false from onsubmit with image maps doesn't suppress coordinates	2011-01-10
+52451	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	WebCore should forward declare more often	2011-05-10
+52552	WebKit	Printing	webkit-unassigned@lists.web...	NEW	---	Printing causes view to scroll	2011-02-17
+52603	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Consider not allowing WebView::m_backingLayer to go into tiling mode	2011-01-18
+52937	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	input[type=range] should render vertically or horizontally in response to specified dimensions, not -webkit-appearance property	2011-09-06
+53375	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	XML serialization should properly encode whitespace in attribute values (space character treated as newline with XSLT stylesheet when run using XSLTProcessor script API, but not when using xml-stylesheet pi)	2016-07-29
+53628	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Clicking in scrollbar gutter of select multiple scrolls by only a single line, but should scroll by one "page"	2011-05-31
+54134	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	We should test HTML parse error messages	2011-02-22
+54372	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Incorrect repaint of underlines on transformed elements	2011-02-13
+56842	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Performance regression: Blocking inline scripts on external sheets	2011-06-06
+57306	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	http/tests/uri/username-with-no-hostname.html fails after r82151	2011-03-29
+57998	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	webkit-patch should have a download-attachments command	2017-07-18
+58797	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	Vary header and Conditional HTTP request error	2018-10-24
+58816	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	queues.webkit.org should move to BlobStore for log files	2011-04-18
+59073	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Malayalam text not rendered correctly on mathrubhumi.com	2011-04-20
+59880	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	test-webkitpy fails if users have Google App Engine installed, but no PIL	2017-07-18
+60276	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	xsl:import and document() don't work in stylesheets loaded via XMLHttpRequest	2014-04-13
+60277	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	[Meta] Add a WebCore testing harness	2011-05-27
+60571	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	ApplicationCache: feature request - an https manifest should be able to list resources from other https origins.	2011-12-15
+60751	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	document.body.scrollHeight not updated correctly	2022-08-11
+60924	WebKit	Media	webkit-unassigned@lists.web...	NEW	---	Timeline in media controller not repainted properly on initial load	2011-05-16
+61305	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	REGRESSION Content jumps around when find-in-page highlight drawn around text	2011-11-14
+61901	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	Image cannot return to original zoom	2011-06-01
+61976	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	RenderLayer::updateClipRects assertion	2013-01-08
+62204	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Master bug for rounding issues which cause 1px difference on 32/64 bit architectures	2020-05-04
+62310	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	www.uniteful.com/39 closes itself when opened from a link on Twitter	2011-06-08
+62606	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	When double clicking to select an element text, don't include the ending newline in the selection	2011-10-17
+62737	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	attribute parsing manipulates document structure without knowing node insertedIntoDocument	2022-08-10
+64047	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Page flashes when dragging a div on google.ro	2011-07-14
+64108	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	[RTL] in-field icons are drawn on the wrong side in RTL text fields	2011-07-19
+64579	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	ApplicationCache + CORS issues	2011-07-15
+64604	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	systemBeep invoked when an attempt to copy fails	2011-07-15
+64674	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	[GTK] Korean Hangul can't be typed when contentEditable is true and designMode is on	2017-03-11
+65021	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Many results on Methanol benchmark have regressed since 2010-09-01	2011-08-08
+65272	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Resources blocked by onbeforeload, aren't.	2012-05-14
+66634	WebKit	WebKit2	webkit-unassigned@lists.web...	NEW	---	Inserting <style> nodes in the DOM can be REALLY slow	2022-07-12
+66805	WebKit	Media	webkit-unassigned@lists.web...	NEW	---	MediaElementAudioSourceNode lives longer than necessary	2016-07-13
+67310	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	XSLTProcessor fails on a large XML document, hitting maxdepth limit	2022-07-28
+67833	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Too wide width after searching an image by Google Mobile	2011-09-08
+67895	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	REGRESSION (Safari 5.0.5-5.1): An absolute positioned block, inside a relative positioned block, in a CSS3 column, is clipped to the boundaries of the column	2022-07-12
+68303	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Memory leak using web SQL DB	2015-11-24
+68337	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Images inside relatively-positioned links have incorrect offsetTop values	2022-08-06
+68748	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Layout test result uploading failing for many bots	2017-07-18
+68826	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Back button is sometimes disabled after quickly clicking on a Google search result	2011-09-26
+69083	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Several CSS lexer rules don't match CSS 2.1 spec	2022-10-12
+69137	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	In input field caret is not blinking after context menu hide	2011-10-21
+69211	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Empty URLs in CSS must resolve to an invalid resource	2022-08-08
+69384	WebKit	Printing	webkit-unassigned@lists.web...	NEW	---	page with only fixed objects doesn't print	2016-02-19
+69669	WebKit	WebKit2	webkit-unassigned@lists.web...	NEW	---	WebKit2/Shared/APIClient.h complains that array subscript is below array bounds	2014-02-05
+69778	WebKit	Web Audi	webkit-unassigned@lists.web...	NEW	---	WebProcess was using 7GB RAM after playing with some WebGL/WebAudio demos	2013-06-07
+70969	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Element with width: auto doesn't resize with its child	2022-08-08
+71049	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Assertion in RenderInline::clippedOverflowRectForRepaint() about layoutStateEnabled()	2014-05-12
+71168	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	Consider removing webkitBeforeTextInserted and webkitEditableContentChanged	2021-03-11
+71624	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	3+ nested elements with -webkit-transform-style:preserve-3d cause display errors	2018-02-06
+71726	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	https://bugs.webkit.org/robots.txt should allow indexing of bugs	2015-12-07
+71819	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	getBoundingClientRect() yields global coordinates for XHTML elements embedded in SVG	2021-04-27
+71992	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	style applied immediately before alert() is not rendered	2022-07-12
+72417	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Artifact left when overlapping elements with a gradient are rotated	2012-02-29
+73017	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	overflow: hidden breaks ul bullet points	2017-03-30
+73068	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	css :hover doesn't work on initially onscreen absolute positioned divs with negative z-index	2022-07-11
+73714	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	[Meta] Make table-rendering benchmark go faster in WebKit	2012-01-04
+74156	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	WebKit does not support box-shadow on display:table-row element	2022-07-12
+74241	WebKit	Printing	webkit-unassigned@lists.web...	NEW	---	Print icon doesn't work on horseplayerinteractive.com	2011-12-15
+74500	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	<img src="#"> requests main document resource unnecessarily	2014-04-07
+75575	WebKit	JavaScri	webkit-unassigned@lists.web...	NEW	---	Improve variable resolution order on window	2012-08-22
+75670	WebKit	Text	webkit-unassigned@lists.web...	NEW	---	Selections include the full page width	2012-01-05
+75781	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Rounding artifact in SVGTextNode.getBBox()	2022-06-09
+75970	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	background-size:100% 100%; Webkit doesn't spread background image	2022-07-12
+76198	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	[meta] Fix bugs found by the IE test center	2017-07-18
+76492	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	REGRESSION(r103608): div.lang is 4.8x slower than div.title	2012-03-02
+76640	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	webkit-patch pretty-diff does not show image diffs	2017-07-18
+76707	WebKit	XML	webkit-unassigned@lists.web...	NEW	---	Two HTML line breaks are generated with XSL transformation of <br/>	2017-03-29
+77433	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Absolute positioned elements do not reposition on fixed layout size change	2014-02-05
+77538	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	302 redirect for resources with cached location caches the redirect	2018-03-21
+78849	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	reproducible crash in RenderObject::~RenderObject()	2012-02-16
+79949	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Semi-transparent image translated over a negative-scaled image produces painting artifacts	2022-07-12
+80159	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	-webkit-user-select:none not respected when copying content	2022-04-20
+80362	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	WebSocket: Client does not support 401 Unauthorized response.	2022-05-31
+80439	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Race condition in handling non-cachable resources.	2012-09-18
+81828	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	An automated tool in the patch submission process should complain about ChangeLogs without comments	2012-03-21
+82051	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Direct shadow casting by the background is an unnaturally *slow* path on some ports for some apps	2012-03-23
+82274	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	[Refactoring] WebKitPoint should be named DOMPoint, and should stay under dom/	2017-05-19
+82528	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Animation causes preceding positioned element to disappear in Safari on Snow Leopard	2012-03-29
+82575	WebKit	Canvas	webkit-unassigned@lists.web...	NEW	---	shadowBlur not applied correctly to partially drawn images	2022-05-31
+82623	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	SVG target style not respected when used in an img tag	2021-05-01
+82645	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	SVG as background to div not sized correctly	2022-07-15
+82697	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	[meta] Editing and Selection in Shadow DOM	2012-07-19
+83078	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	garden-o-matic should show a *BIG* warning when a builder didn't run to completion	2012-10-24
+83888	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Layout Test fast/forms/select-set-length-with-mutation-remove.html is failing	2012-04-13
+84469	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Consider dropping font size quirk	2016-02-09
+84611	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	EWS bots have no timeout protection for the c++ unittests	2014-10-10
+84666	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	<iframe> with embedded youtube.com has improper content layout, reflow fixes it	2012-10-11
+85511	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Assertion failure in SVGImageCache::requestedSizeAndZoom when using a google map with svg overlay	2012-05-03
+85851	WebKit	WebRTC	webkit-unassigned@lists.web...	NEW	---	MediaStream API: support MediaStreamRecorder implementation	2022-01-04
+85863	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	[Shadow] Style elements in Shadow DOM should not be exposed by document.styleSheets attribute	2012-05-30
+86010	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	.getTransformToElement doesn’t work correctly across embedded svg elements	2022-07-15
+86417	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	check-webkit-style complains about anonymous blocks in C code	2012-05-14
+86510	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	[BlobBuilder] BlobBuilder not holding references to appended Blobs?	2012-05-16
+87175	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Reftests can't have platform specific results	2013-03-21
+87411	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	garden-o-matic: add option to compare only selected tests	2017-07-18
+88079	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	ASSERT(m_loadState == LoadStateCommitted) in WebFrameProxy::didFinishLoad(), when navigating back from a previously canceled page.	2013-05-03
+88687	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	garden-o-matic should let you undo rebaselines	2012-06-11
+89117	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Layout of media player div shifts up after exiting fullscreen	2012-06-17
+89199	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	[GTK][Mac WK2] New editing/spelling/grammar-edit-word.html fails	2017-03-11
+90138	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	REGRESSION(r53420): elements added dynamically when the last line contains a float may not be rendered	Sat 15:32
+90191	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	rebaselining requires a bot for each platform directory under LayoutTests	2012-06-28
+90618	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Add folder access policy to allow local access to same folder and child folders	2013-04-01
+90950	WebKit	WebKit2	webkit-unassigned@lists.web...	NEW	---	[WK2] Add C API for ORIENTATION_EVENTS.	2013-01-09
+91561	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	garden-o-matic fails to execute "webkit-patch rebaseline-json"	2017-07-18
+92258	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	The grid benchmark from the Google spreadsheets team is slow	2012-09-18
+92755	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	CORS handling of 401 response to preflight incorrect (sends the actual POST anyway)	2018-12-08
+93674	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	change event is sent to <input type=radio> before click event	2019-02-06
+93985	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	-webkit-locale should be inferred from system language	2013-03-19
+94731	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	FormatBlock clones a paragraph when executed inside a pre	2012-08-22
+94733	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Setting innerHTML can be O(n^2) when selection is inside the replaced content	2017-07-18
+94734	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	REGRESSION: Editing slows down at the end of a content editable area	2012-08-23
+94737	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Editing and pasting long texts to textarea's overproportionally slow	2012-08-22
+94845	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	canvas fallback content is stripped out on copy and paste	2022-06-02
+94993	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	RenderLayerBacking::startAnimation() return value has incorrect semantics	2013-04-08
+97045	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	webkit-patch rebaseline does the wrong thing	2022-09-26
+97285	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Performance bots take more than 60 minutes to cycle	2017-07-18
+97643	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Flakiness Dashboard server OOMs when the results.json gets too large	2017-07-18
+98213	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	[Flexbox] Webkit picks a different flex base size for multicol elements with "align-self:stretch" vs. other "align-self" values	2017-07-18
+99118	WebKit	JavaScri	webkit-unassigned@lists.web...	NEW	---	[JSC] >10% of Dromaeo dom-query.html is atomizing the same StringImpl's passed from JSC to getElementByTagName	2012-10-15
+99669	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	hover, layout and scrolling super slow	2013-01-29
+100304	WebKit	Tables	webkit-unassigned@lists.web...	NEW	---	WebKit takes 20s+ to render a table with many table bodies	2012-10-28
+100453	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	contentEditable: Style of List Item Leaks Through After List End	2022-08-18
+101540	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Attached vs detached tree performance	2012-11-08
+102428	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Support geometricPrecision for HTML elements	2013-10-02
+103490	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	SVG paint server fallback not honored	2022-10-18
+104091	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	google.com navigation bar lays out differently on uncached page load	2017-07-18
+105094	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Stupid type error when uploading results to the test results server json	2012-12-15
+106011	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	box-shadow for fixed positioned SVG does not draw	2022-07-15
+106069	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Add a script to generate statistics on how many layout tests are passing	2017-07-18
+106728	WebKit	Platform	webkit-unassigned@lists.web...	NEW	---	[KURL] 'https:' gets adjusted to 'https:/'	2013-01-16
+107878	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	webkit-patch should give sane, readable error messages	2013-01-24
+107941	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Add support to upload to gist in webkit-patch.	2014-12-03
+108022	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Layout test diff view is a blurry mess on Chrome	2013-02-03
+108065	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Layout Test tables/mozilla_expected_failures/bugs/bug2479-5.html is failing	2013-01-29
+108524	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	Crash under FrameView::isRubberBandInProgress() during FrameView creation	2013-02-21
+108537	WebKit	Frames	webkit-unassigned@lists.web...	NEW	---	window[id] evaluates to iframe browsing context instead of element itself	2017-06-23
+109077	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Layout of Google Chat widget in Gmail is unstable as at r140956	2013-02-11
+109449	WebKit	Accessib	webkit-unassigned@lists.web...	NEW	---	ASSERTION FAILED: cellObject->isTableCell(), UNKNOWN in WebCore::AccessibilityTable::cellForColumnAndRow	2014-02-07
+109600	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	REGRESSION(r140613): Incorrect selection painting on a particular page	2013-02-21
+109955	WebKit	Text	webkit-unassigned@lists.web...	NEW	---	Font kerning in WebKit is quite bad	2013-02-15
+110230	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	[harfbuzz] Always pass correct text direction to HarfBuzz	2017-03-11
+111177	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	feGaussianBlur shows banding under certain circumstances	2014-12-05
+111644	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	[meta] RecalcStyle accounts for too much time on the main thread	2017-07-18
+111645	WebKit	New Bugs	webkit-unassigned@lists.web...	NEW	---	[meta] Make the Threaded HTML Parser faster	2013-05-27
+112205	WebKit	JavaScri	webkit-unassigned@lists.web...	NEW	---	REGRESSION (r144884): WebKit2.DOMWindowExtensionBasic API test is asserting	2013-03-18
+112446	WebKit	WebKit M	webkit-unassigned@lists.web...	NEW	---	[CoordinatedGraphics][TexMap][Meta] Regressions producing rendering artifacts	2013-12-09
+112521	WebKit	Web Audi	webkit-unassigned@lists.web...	NEW	---	ScriptProcessorNode is garbage collected while still active if unreachable (breaks multiple webaudio test)	2015-06-12
+113715	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	@font-face downloads all external fonts of same name, regardless of weight	2022-07-24
+114372	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	ContentEditable focus changes when typing	2017-07-29
+114456	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	DOM interface objects should have class side inheritance	2013-04-11
+114566	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	REGRESSION (r147261): Flex box regression: min-height defaults to 0 instead of -webkit-min-content	2018-09-05
+114643	WebKit	Accessib	webkit-unassigned@lists.web...	NEW	---	WebKit does not expose HTML5 drag/drop status	2015-02-27
+114791	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Contenteditable issues related to backspace handling	2014-05-15
+115154	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Avoid using OverlapMap in RenderLayerCompositor::computeCompositingRequirements	2022-09-17
+115158	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	Account for CTM scale when deciding the image resampling algorithm.	2022-08-21
+115405	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	An iframe fling should not propagate to a parent iframe	2013-05-20
+115597	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Setting user-select: none disables pasting	2013-05-04
+115689	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Simplify FrameLoaderStateMachine and FrameLoader::transitionToCommitted().	2022-09-23
+115690	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Move the remainder of Archive loading from FrameLoader to DocumentLoader.	2013-05-20
+115699	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Round when converting percentage length to LayoutUnit	2022-08-22
+115708	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	select element’s default selection is affected by CSS rules	2022-08-22
+115726	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	#30 test in CSS3 test suite is broken in WebKit [transform skewX]	2022-07-13
+115773	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Fix button baseline calculations for Mac with dynamic changes	2022-08-23
+115845	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Centralize setting a ResourceRequest's cache policy	2013-05-20
+116065	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Consider mixed-content iframes to be mixed script instead of mixed display	2022-09-14
+116073	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Fix wrong assertions in Range::textNodeSplit	2022-08-15
+116076	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Don't recalc style for the whole subtree during animations	2013-05-20
+116466	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Try to reduce the flakiness of 4 :hover tests.	2016-01-15
+116481	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Unifying error processing in CSS functions	2013-05-25
+116496	WebKit	Accessib	webkit-unassigned@lists.web...	NEW	---	Fix crash when trying to get bounding box of node without a renderer	2015-11-03
+116500	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Refactoring CSS error reporting	2013-05-20
+116501	WebKit	Media	webkit-unassigned@lists.web...	NEW	---	Fixing inconsistency with the media query spec and other browsers	2013-05-20
+116505	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Avoid explicit rasterization in RenderBoxModelObject::paintFillLayerExtended()	2022-09-14
+116506	WebKit	Media	webkit-unassigned@lists.web...	NEW	---	Removing and adding the media element in a page triggers track reloading	2013-05-20
+116595	WebKit	WebKit2	webkit-unassigned@lists.web...	NEW	---	REGRESSION(r150491): WebKit2.DOMWindowExtensionNoCache fails	2013-05-25
+116917	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	x and y of a dragstart event are incorrect if it is triggered by long press event	2013-05-29
+116922	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Remove text-line-through, text-overline, and text-underline	2022-09-28
+116928	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Make FrameLoader::reload always use the active document loader	2013-05-29
+116937	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Treat non-contenteditable element as an atomic element	2013-05-29
+116949	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Don't force layout for mouse event hit tests to prevent FOUC	2013-05-30
+117059	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	iOS touch scrolling doesn't take occluding elements into account	2019-02-06
+117425	WebKit	Web Temp	webkit-unassigned@lists.web...	NEW	---	StringStats should track duplicates	2013-06-10
+117429	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Remove unnecessary dependencies on StyleResolver	2013-06-10
+117433	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Consider using AtomicString in HTTP header	2013-06-10
+117434	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Move static font-size helper methods out of StyleResolver	2013-06-10
+117436	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Correctly calculate auto margins for column flows	2022-08-30
+117442	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	label element should send key and focus events if it has contenteditable attribute	2013-06-10
+117447	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Allow removing empty childs even if !canCollapseAnonymousBlockChild()	2013-06-25
+117459	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Border-radius doesn't work properly if div contains table and it's background is changed on mouse events	2022-09-28
+117462	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Fix RenderLayer::collectLayers logic bug	2013-06-10
+117465	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Potential crash in FrameView::updateScrollCorner	Sun 13:36
+117468	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Make ScopedStyleResolver use apply-author-styles of a given element's treescope	2013-06-10
+117472	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Removing an inline element from a flexbox does not remove its anonymous wrapper	2013-06-10
+117483	WebKit	Accessib	webkit-unassigned@lists.web...	NEW	---	Avoid DEFINE_STATIC_LOCAL for strings in accessibility code	2014-02-07
+117488	WebKit	Text	webkit-unassigned@lists.web...	NEW	---	Consider atomicizing inline scripts before execution	2013-06-10
+117489	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Avoid N^2 walk placing renderers when building the render tree	2013-11-06
+117666	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	REGRESSION (r143299): Cannot edit text after clicking 'View source code' button on jWYSIWYG	2022-09-29
+117773	WebKit	JavaScri	webkit-unassigned@lists.web...	NEW	---	DOMException toString can serialize more useful information	2017-01-18
+117775	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Don't retain for the main resource by default	2022-08-22
+117777	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Remove UploadButtonElement	2013-06-18
+117780	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	REGRESSION(r143479): Floated elements inside a white-space:nowrap container should still wrap	2013-06-20
+117781	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Consider using String rope for XMLHttpRequest.responseText	2013-06-19
+118006	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Support focus ring around area element	2013-06-25
+118008	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Don't wrap non-stylesheet (CSSOM rule, selectors, etc) input strings to CSS parser in braces	2013-06-25
+118010	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Don't shrink RuleSets multiple times	2013-06-25
+118015	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	RuleSet causes 600 kB of memory fragmentation	2022-10-03
+118022	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Consider returning 0 immediately if m_error is true in response accessors of XMLHttpRequest.	2013-06-25
+118023	WebKit	Accessib	webkit-unassigned@lists.web...	NEW	---	Improve contenteditable accessibility notifications	2014-02-07
+118026	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	CSS clip property should not force additional clamping to border box	2022-09-17
+118030	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Make Sec-WebSocket-Extensions parsing more strict	2013-06-25
+118047	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Make CSS parser errors no longer 16-bit strings, and fix MediaTypes to be atomic	2013-06-26
+118048	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Refactoring: Replace DocumentLoader::writer() with more focused APIs	2013-06-26
+118269	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	100% repro assertion failure with testcase (m_repaintRect == renderer()->clippedOverflowRectForRepaint(renderer()->containerForRepaint()))	2020-02-06
+118617	WebKit	WebCore	webkit-unassigned@lists.web...	NEW	---	Make amazon.com stop upconverting strings	2013-07-12
+118618	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Don't force layout for offsetWidth of fixed width elements	2013-11-06
+118624	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Fix border radius glitch	2022-09-28
+118628	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Move the Length parsing functions to using Vector<Length>	2013-07-12
+118638	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Flexbox: Rename various variables and arguments to match the naming from the spec	2013-07-12
+118705	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Report unterminated comments in CSS	2017-01-18
+118706	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	[Flexbox] Don't create renderers for whitespace nodes in flexbox	2022-09-27
+118709	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	[Linux] REGRESSION(r129750): Middle-clicking on a link can paste into a text field if it's focused during the click	2013-07-23
+118710	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Dirty line boxes when moving list marker from another block	2022-10-04
+118711	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Generate CSS Lexer code that performs identifier matching	2013-07-15
+118805	WebKit	Text	webkit-unassigned@lists.web...	NEW	---	TextCodecICU always makes a copy of string to deal with backslash-to-yen conversion	2013-07-17
+118818	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Account for zoom when computing SVG font size	2022-09-20
+118890	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Merge CSS rulesets for date, datetime-local, month, time, and week input types	2017-03-08
+119053	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Rewrite parseFrameSetListOfDimension to match HTML5	2013-07-25
+119057	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Add more select elements with various states	2013-07-24
+119058	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Shrink RuleData by 16 bytes	2013-08-14
+119060	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Do not fire load events from frames with scripting disabled	2013-07-24
+119113	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	[Flexbox] Handle intrinsic sizing more correctly with flexbox	2022-07-25
+119114	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Avoid N^2 walk placing renderers when building the render tree	2013-11-06
+119116	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Typing style shouldn't inherit style from atomic elements	2022-08-25
+119123	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Text::recalcTextStyle should reattach text when a parent gets white-space: pre	2022-09-30
+119125	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	HTMLTitleElement should not resolve any styles when it is not in document	2022-08-25
+119130	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	Redo the hit test in EventHandler::EventHandler if the node had been detached	2022-08-23
+119131	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Deflake 'http/tests/security/mixedContent/' tests	2013-07-25
+119134	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Merge viewport units/calcs conversion flags into fixed/percent flags	2013-07-25
+119284	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Cross-origin access to Location::reload() should throw a SecurityError	2013-07-30
+119285	WebKit	Media	webkit-unassigned@lists.web...	NEW	---	Fix HTMLMediaElement seek's timeupdate scheduling	2013-07-30
+119287	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Remove non-sensical code to force body/documentElement layout in FrameView::layout	2013-07-30
+119288	WebKit	Page Loa	webkit-unassigned@lists.web...	NEW	---	Go back and forward through BackForwardController	2013-07-30
+119290	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Height of fixed height cell is not proper when cell's row is under row spanning cell	2013-07-30
+119291	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	HTMLOptionElement::defaultSelected should affect selection state of other option elements	2013-07-30
+119292	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	window.clearInterval() clears actions registered with window.setTimeout() (and vice versa)	2013-07-31
+119305	WebKit	UI Event	webkit-unassigned@lists.web...	NEW	---	Fix a bug that mousedown without mouseup in a frame disturbs click event in another frame	2022-09-24
+119306	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Only traverse the ShadowRoots once during recalcStyle	2013-07-30
+119308	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Avoid scanning really wide DOMs in textRendererIsNeeded	2022-09-24
+119319	WebKit	Web Temp	webkit-unassigned@lists.web...	NEW	---	Don't use Vector<UChar> to build strings	2022-08-21
+119322	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	javascript: urls should always be parsed synchronously	2022-09-29
+119323	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Convert some @font-face pixel tests to ref tests	2013-07-30
+119325	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	compareDocumentPosition() reports an attribute and its content as disconnected	2013-07-30
+119355	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Spanning logical height is not added properly in all spanning rows	2013-07-31
+119372	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	Order of actions for labeled control should be focus then click	2022-09-24
+119508	WebKit	Tools /	webkit-unassigned@lists.web...	NEW	---	Explicitly test same/cross-origin importScripts() effect on worker.onerror	2013-08-07
+119524	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Changing text color and left at the same time will not change the color (under graphics acceleration)	2016-01-31
+119642	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	http://oilevent.com takes ages to load in WebKit	2013-10-12
+119707	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Add another test for whitespace handling in flexbox	2022-09-24
+119711	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Make CSS property user-select:none not to affect Document.caretRangeFromPoint()	2022-08-21
+119713	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Remove focus if supportsFocus state is changed	2022-08-18
+119719	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Suppress zero-length text SVG inline renderers	2013-08-14
+119724	WebKit	Canvas	webkit-unassigned@lists.web...	NEW	---	Canvas focus outline should match style in html.css	2013-08-12
+119924	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Make sure the last selection gets spell checked when focusing different frame	2013-08-16
+119927	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Improve compositor hit testing performance by using layer bounding boxes	2013-08-19
+119929	WebKit	HTML Edi	webkit-unassigned@lists.web...	NEW	---	Replace error-prone value with check from CSSProperty	2013-08-19
+120038	WebKit	Forms	webkit-unassigned@lists.web...	NEW	---	input[type=date] with invalid date should return empty string for value IDL attribute instead of the default value	2022-08-29
+120039	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Only allocate the hyphen-appending buffer if we intend to use it	2013-08-19
+120043	WebKit	Bindings	webkit-unassigned@lists.web...	NEW	---	Fix invalid test, fast/dom/wrapper-classes.html	2013-08-19
+120162	WebKit	WebKit2	webkit-unassigned@lists.web...	NEW	---	WebKit2.GetPIDAfterAbortedProcessLaunch is failing on Lion due to wrongly using NetworkProcess	2013-08-22
+120451	WebKit	SVG	webkit-unassigned@lists.web...	NEW	---	Make SVGTextContentElement methods behave consistently with Firefox and IE	Sat 03:27
+120494	WebKit	CSS	webkit-unassigned@lists.web...	NEW	---	Implement computed style for animation shorthand and align parsing with the spec	2016-04-28
+120498	WebKit	Layout a	webkit-unassigned@lists.web...	NEW	---	Fix baseline computation for nested inline-blocks	2022-09-28
+120902	WebKit	Images	webkit-unassigned@lists.web...	NEW	---	Don't resize the image to fit the window, if the image is being zoomed	2013-09-12
+121571	WebKit	DOM	webkit-unassigned@lists.web...	NEW	---	Make Range methods to work with detached node	2022-08-23
+
+DafaGaffari
